@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b23f08d2ae4cba14087c1ed36193d82b, type: 3}
+  m_Name: 2.door_close
+  m_EditorClassIdentifier: 
+  mBehaviorSource:
+    behaviorName: Behavior
+    behaviorDescription: 
+    mTaskData:
+      types: []
+      parentIndex: 
+      startIndex: 
+      variableStartIndex: 
+      JSONSerialization: '{"EntryTask":{"Type":"BehaviorDesigner.Runtime.Tasks.EntryTask","NodeData":{"Offset":"(888,-82)"},"ID":0,"Name":"Entry","Instant":true},"RootTask":{"Type":"BehaviorDesigner.Runtime.Tasks.Selector","NodeData":{"Offset":"(2.5,129)"},"ID":1,"Name":"Selector","Instant":true,"AbortTypeabortType":"None","Children":[{"Type":"BehaviorDesigner.Runtime.Tasks.Sequence","NodeData":{"Offset":"(-182,128)"},"ID":2,"Name":"Sequence","Instant":true,"AbortTypeabortType":"None","Children":[{"Type":"Is_enmey_found","NodeData":{"Offset":"(-120,130)"},"ID":3,"Name":"Is 
+        enmey  found","Instant":true},{"Type":"goto_door","NodeData":{"Offset":"(10,130)"},"ID":4,"Name":"Goto 
+        door","Instant":true},{"Type":"waiting","NodeData":{"Offset":"(143.5,131)"},"ID":5,"Name":"Waiting","Instant":true}]},{"Type":"patrol","NodeData":{"Offset":"(190.5,129)"},"ID":6,"Name":"Patrol","Instant":true}]},"DetachedTasks":[{"Type":"BehaviorDesigner.Runtime.Tasks.Sequence","NodeData":{"Offset":"(120.100006,179)"},"ID":7,"Name":"Sequence","Instant":true,"AbortTypeabortType":"None"},{"Type":"asdrrrrtttest","NodeData":{"Offset":"(180.1,309)"},"ID":8,"Name":"Asdrrrrtttest","Instant":true},{"Type":"BehaviorDesigner.Runtime.Tasks.ConditionalEvaluator","NodeData":{"Offset":"(160.1,39)"},"ID":9,"Name":"Conditional
+        Evaluator","Instant":true,"SharedBoolreevaluate":{"Type":"BehaviorDesigner.Runtime.SharedBool","Name":null,"BooleanmValue":false},"BooleangraphLabel":false}],"Variables":[{"Type":"BehaviorDesigner.Runtime.SharedBool","Name":"sdf","IsShared":true,"BooleanmValue":false}]}'
+      fieldSerializationData:
+        typeName: []
+        fieldNameHash: 
+        startIndex: 
+        dataPosition: 
+        unityObjects: []
+        byteData: 
+        byteDataArray: 
+      Version: 1.7.3

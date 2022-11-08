@@ -1,0 +1,411 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.21f1 (a38c86f6690f) revision 10718342'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19045.2130; Version 2009; 64bit' Language: 'ko' Physical Memory: 16178 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.21f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/SpaceJack
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+8792
+Successfully changed project path to: G:/SpaceJack
+G:/SpaceJack
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 396.70 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.21f1 (a38c86f6690f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/SpaceJack/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   
+    VRAM:     8089 MB
+    Driver:   25.20.100.6519
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56416
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.027277 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 194.93 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.148 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5148ms)
+		BeginReloadAssembly (169ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1682ms)
+			LoadAssemblies (164ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (629ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (127ms)
+			SetupLoadedEditorAssemblies (459ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (195ms)
+				BeforeProcessingInitializeOnLoad (36ms)
+				ProcessInitializeOnLoadAttributes (127ms)
+				ProcessInitializeOnLoadMethodAttributes (80ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.051180 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.81 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.819 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3823ms)
+		BeginReloadAssembly (429ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (55ms)
+		EndReloadAssembly (3145ms)
+			LoadAssemblies (484ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (989ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (102ms)
+			SetupLoadedEditorAssemblies (1353ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (289ms)
+				ProcessInitializeOnLoadAttributes (804ms)
+				ProcessInitializeOnLoadMethodAttributes (185ms)
+				AfterProcessingInitializeOnLoad (58ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (23ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
+Refreshing native plugins compatible for Editor in 3.01 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2767 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.1 MB.
+System memory in use after: 105.3 MB.
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 3221.
+Total: 26.223200 ms (FindLiveObjects: 1.192400 ms CreateObjectMapping: 0.694900 ms MarkObjects: 24.046800 ms  DeleteObjects: 0.284600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.032432 seconds 
+  Import took 0.049283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.007633 seconds.
+  path: Assets/NewExternalBehavior.asset
+  artifactKey: Guid(aede4614f06e3044ea59ba1ccd75e705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewExternalBehavior.asset using Guid(aede4614f06e3044ea59ba1ccd75e705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fda588a562dd1f7828f2b095605db59b') in 0.157449 seconds 
+  Import took 0.177431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 285.591677 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(6fda50bc1628a2e47bc81cf17a41a8d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(6fda50bc1628a2e47bc81cf17a41a8d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffbebcf9cf952aa0a1b63a3b061f83b2') in 0.018247 seconds 
+  Import took 0.033368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032177 seconds.
+  path: Assets/Sprites/Column.asset
+  artifactKey: Guid(04937d814d744764da03e90294ef40f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Column.asset using Guid(04937d814d744764da03e90294ef40f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c030c9688021eec04c9dac6f3455cd4') in 0.211244 seconds 
+  Import took 0.235163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001598 seconds.
+  path: Assets/Sprites/다이너마이트.png
+  artifactKey: Guid(2f467f87c0ff9c34da3fe4ca05a5bcee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/다이너마이트.png using Guid(2f467f87c0ff9c34da3fe4ca05a5bcee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5305cdfa59b3666b99f271ba41431d4a') in 0.265555 seconds 
+  Import took 0.282335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/Sprites/kisspng-california-gold-rush-gold-as-an-investment-gold-ba-gold-bar-5b49cb1f003c32.968320501531562783001.jpg
+  artifactKey: Guid(ca807304492eff24a933d61d52ae5512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/kisspng-california-gold-rush-gold-as-an-investment-gold-ba-gold-bar-5b49cb1f003c32.968320501531562783001.jpg using Guid(ca807304492eff24a933d61d52ae5512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd7fefa7acae3263c04491602776ab0') in 0.064336 seconds 
+  Import took 0.071528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/Sprites/그림2.png
+  artifactKey: Guid(49f91d82d620fa14e96450ec44aac91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/그림2.png using Guid(49f91d82d620fa14e96450ec44aac91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fc369b28d9899babf5e6306fc98339c') in 0.043938 seconds 
+  Import took 0.051671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/Sprites/Tile.png
+  artifactKey: Guid(e64c88a3ce394a546ae58fc6ff8f349d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tile.png using Guid(e64c88a3ce394a546ae58fc6ff8f349d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0750efdc4d6b6d57543dc3f2dae2706') in 0.034634 seconds 
+  Import took 0.046870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Assets/Sprites/맵1.png
+  artifactKey: Guid(163641badd3c31f43a34664d9fae0d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/맵1.png using Guid(163641badd3c31f43a34664d9fae0d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0828a4545578f4ea7308d107fa3e881e') in 0.045934 seconds 
+  Import took 0.055371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000673 seconds.
+  path: Assets/Sprites/그림1.png
+  artifactKey: Guid(36b8ef723e00261439129964bfd8cdae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/그림1.png using Guid(36b8ef723e00261439129964bfd8cdae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e7ba0f6371875b33065bd6008e0a315') in 0.047252 seconds 
+  Import took 0.059419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000687 seconds.
+  path: Assets/Sprites/Jack(temp).png
+  artifactKey: Guid(7c274fec63b53564fbea3cfb77b77edd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Jack(temp).png using Guid(7c274fec63b53564fbea3cfb77b77edd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e8ba8eb085eda0b7a9f653f5714897') in 0.056447 seconds 
+  Import took 0.073215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000671 seconds.
+  path: Assets/Sprites/바닥타일5.png
+  artifactKey: Guid(2ad0ffb5bd410c14e9bba798e7ad8b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/바닥타일5.png using Guid(2ad0ffb5bd410c14e9bba798e7ad8b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f37ff49da65b2f3597f586659dfa2447') in 0.048818 seconds 
+  Import took 0.059217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000660 seconds.
+  path: Assets/Sprites/Column.png
+  artifactKey: Guid(b3e065ebe7062794f8b830dbe022465b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Column.png using Guid(b3e065ebe7062794f8b830dbe022465b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4c0edefc169adb7bbdf909368a49d2') in 0.040594 seconds 
+  Import took 0.054847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000655 seconds.
+  path: Assets/Sprites/함선.png
+  artifactKey: Guid(fce0efed725d1ba4cabf96536c1e5fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/함선.png using Guid(fce0efed725d1ba4cabf96536c1e5fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c2014dbf7b7fc2d3577de375a6fecba') in 0.061422 seconds 
+  Import took 0.075454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000596 seconds.
+  path: Assets/Sprites/New Palette.prefab
+  artifactKey: Guid(d492171788795d14398525a91a67f34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Palette.prefab using Guid(d492171788795d14398525a91a67f34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d3c56182500a2a84146d4b28115182') in 0.127578 seconds 
+  Import took 0.138294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001501 seconds.
+  path: Assets/Sprites/상인.png
+  artifactKey: Guid(d23f6e9733514794cb3eaa065ce338c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/상인.png using Guid(d23f6e9733514794cb3eaa065ce338c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '408adc5a6c7e13ca5d6a7b73a167fb84') in 0.066626 seconds 
+  Import took 0.081945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000833 seconds.
+  path: Assets/Sprites/장전쿨타임표시.png
+  artifactKey: Guid(df275c92e43f11549984141189b646cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/장전쿨타임표시.png using Guid(df275c92e43f11549984141189b646cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '959cf6fb5ab0cc808507111ddb1798fa') in 0.065371 seconds 
+  Import took 0.083545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000826 seconds.
+  path: Assets/Sprites/잭 풀샷.png
+  artifactKey: Guid(9fa03692f045917488674d41111dff32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/잭 풀샷.png using Guid(9fa03692f045917488674d41111dff32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e03b89d828b43558204adb8dfbddb0f0') in 0.120618 seconds 
+  Import took 0.133376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/Sprites/바닥타일5.asset
+  artifactKey: Guid(83225a942d1fe8d409b23c5e3fd97367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/바닥타일5.asset using Guid(83225a942d1fe8d409b23c5e3fd97367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01126741f671d41aef295f46fcd7d07e') in 0.026285 seconds 
+  Import took 0.037270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000604 seconds.
+  path: Assets/Sprites/robot.png
+  artifactKey: Guid(093f2c459eb151e4c8f14ec6fec966a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/robot.png using Guid(093f2c459eb151e4c8f14ec6fec966a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7bc17892b010794a709d8b241c362b3') in 0.043933 seconds 
+  Import took 0.056454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000938 seconds.
+  path: Assets/Sprites/pngtree-key-card-glyph-icon-vector-png-image_5199648.jpg
+  artifactKey: Guid(ddf645ecfdc77d644b2097f158e2711c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-key-card-glyph-icon-vector-png-image_5199648.jpg using Guid(ddf645ecfdc77d644b2097f158e2711c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d14f830ea11fdb2cc44fe1901e1e4bb') in 0.051911 seconds 
+  Import took 0.061711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Sprites/배경.png
+  artifactKey: Guid(ef3f8f9d68bdab44fab9a05535612706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/배경.png using Guid(ef3f8f9d68bdab44fab9a05535612706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc97dafe5f2ba28ce5094cbb4916e52e') in 0.037420 seconds 
+  Import took 0.045970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/Sprites/New Palette 1.prefab
+  artifactKey: Guid(af8aa6751727aec43a5d65d6461735c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Palette 1.prefab using Guid(af8aa6751727aec43a5d65d6461735c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e24df146434ac52f0409c87d5f95eaa6') in 0.029659 seconds 
+  Import took 0.038077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/Sprites/벽5.png
+  artifactKey: Guid(db57d08dcef126d4b970e00cb0a7fc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/벽5.png using Guid(db57d08dcef126d4b970e00cb0a7fc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db0eaf2b0d0988b232efb8903227688') in 0.032595 seconds 
+  Import took 0.042537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/Sprites/벽5.asset
+  artifactKey: Guid(4e3c8a181ec3db248a48bd775ede6ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/벽5.asset using Guid(4e3c8a181ec3db248a48bd775ede6ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf7b69bff532556ede9030001150b5af') in 0.023711 seconds 
+  Import took 0.035234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000679 seconds.
+  path: Assets/Sprites/Tile.asset
+  artifactKey: Guid(cd38cf1c2f8250c46a670a27e85de3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tile.asset using Guid(cd38cf1c2f8250c46a670a27e85de3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad5c5d8cc549caf97ab73f8449bed673') in 0.025457 seconds 
+  Import took 0.040785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.906210 seconds.
+  path: Assets/Sprites/맵
+  artifactKey: Guid(bbe96a01eae17524c903297ba38c95f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/맵 using Guid(bbe96a01eae17524c903297ba38c95f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e2671879ac096e157e0876b9558642') in 0.013161 seconds 
+  Import took 0.022276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025591 seconds.
+  path: Assets/Sprites/맵/맵1.png
+  artifactKey: Guid(a0c51dce6f6fcf840b550eacac76282a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/맵/맵1.png using Guid(a0c51dce6f6fcf840b550eacac76282a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6062956710a3e6995482ba7678342d3') in 0.051520 seconds 
+  Import took 0.060564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000734 seconds.
+  path: Assets/Sprites/맵/맵2.png
+  artifactKey: Guid(56b742b70e96aba48b1d7dbc477815cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/맵/맵2.png using Guid(56b742b70e96aba48b1d7dbc477815cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '300fec99b0d5655697f34673ed9ddff6') in 0.045903 seconds 
+  Import took 0.055327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000775 seconds.
+  path: Assets/Sprites/맵/맵7.png
+  artifactKey: Guid(a4d322e303a5f894d9737eaff7aede52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/맵/맵7.png using Guid(a4d322e303a5f894d9737eaff7aede52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8687195e18f977e874a97b89dc993975') in 0.056446 seconds 
+  Import took 0.066220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000972 seconds.
+  path: Assets/Sprites/맵/맵3.png
+  artifactKey: Guid(fc2f5400b034f9441af3fb4fbbae98a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/맵/맵3.png using Guid(fc2f5400b034f9441af3fb4fbbae98a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be7147120a7f4b02feec0a0434a335f3') in 0.052124 seconds 
+  Import took 0.063737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000769 seconds.
+  path: Assets/Sprites/맵/맵정보.png
+  artifactKey: Guid(ac3d8bb1876cad9468535ed62e38651f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/맵/맵정보.png using Guid(ac3d8bb1876cad9468535ed62e38651f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6e1b4873268aebb82c5f68e8a16f886') in 0.052635 seconds 
+  Import took 0.064243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000739 seconds.
+  path: Assets/Sprites/맵/맵5.png
+  artifactKey: Guid(ce4617e6dc2f46940aff5c3ed8c1e546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/맵/맵5.png using Guid(ce4617e6dc2f46940aff5c3ed8c1e546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb3741fdc98c1539b37e3b396e8d4bb') in 0.052657 seconds 
+  Import took 0.062464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000644 seconds.
+  path: Assets/Sprites/맵/맵4.png
+  artifactKey: Guid(0658fd56aae37514b997ed7da392b3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/맵/맵4.png using Guid(0658fd56aae37514b997ed7da392b3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0128b0ea2435da953654ae64f98235dd') in 0.051793 seconds 
+  Import took 0.064063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000652 seconds.
+  path: Assets/Sprites/맵/맵6.png
+  artifactKey: Guid(454f80b695b3a61428177f7bdbf81ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/맵/맵6.png using Guid(454f80b695b3a61428177f7bdbf81ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24a8cea067d489cb1318853519bfc7fc') in 0.065227 seconds 
+  Import took 0.079688 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
