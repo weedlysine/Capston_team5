@@ -1,0 +1,1839 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-11-10T20:49:31.160+09:00
+  initializedAtString: 2022-11-10T15:30:52.765+09:00
+  entries:
+  - path: SpaceJack\Assets\Behavior Designer Movement\Scripts\Tasks\Patrol.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Behavior
+      Designer Movement\\Scripts\\Tasks\\Patrol.cs"
+    projectPath: Assets\Behavior Designer Movement\Scripts\Tasks\Patrol.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Assets\Behavior Designer\Resources.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Behavior
+      Designer\\Resources.meta"
+    projectPath: Assets\Behavior Designer\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Behavior Designer\Resources\BehaviorDesignerGlobalVariables.asset
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Behavior
+      Designer\\Resources\\BehaviorDesignerGlobalVariables.asset"
+    projectPath: Assets\Behavior Designer\Resources\BehaviorDesignerGlobalVariables.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Behavior Designer\Resources\BehaviorDesignerGlobalVariables.asset.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Behavior
+      Designer\\Resources\\BehaviorDesignerGlobalVariables.asset.meta"
+    projectPath: Assets\Behavior Designer\Resources\BehaviorDesignerGlobalVariables.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\BehaviorTree_made\1.goto_area.asset
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\BehaviorTree_made\\1.goto_area.asset"
+    projectPath: Assets\BehaviorTree_made\1.goto_area.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Assets\BehaviorTree_made\2.door_close.asset
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\BehaviorTree_made\\2.door_close.asset"
+    projectPath: Assets\BehaviorTree_made\2.door_close.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Assets\Gizmos\NavMeshLink Icon.png
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Gizmos\\NavMeshLink
+      Icon.png"
+    projectPath: Assets\Gizmos\NavMeshLink Icon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Gizmos\NavMeshLink Icon.png.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Gizmos\\NavMeshLink
+      Icon.png.meta"
+    projectPath: Assets\Gizmos\NavMeshLink Icon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Gizmos\NavMeshModifierVolume Icon.png
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Gizmos\\NavMeshModifierVolume
+      Icon.png"
+    projectPath: Assets\Gizmos\NavMeshModifierVolume Icon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Gizmos\NavMeshModifierVolume Icon.png.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Gizmos\\NavMeshModifierVolume
+      Icon.png.meta"
+    projectPath: Assets\Gizmos\NavMeshModifierVolume Icon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Gizmos\NavMeshSurface Icon.png
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Gizmos\\NavMeshSurface
+      Icon.png"
+    projectPath: Assets\Gizmos\NavMeshSurface Icon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Gizmos\NavMeshSurface Icon.png.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Gizmos\\NavMeshSurface
+      Icon.png.meta"
+    projectPath: Assets\Gizmos\NavMeshSurface Icon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshAgent2D.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshAgent2D.cs"
+    projectPath: Assets\NavMeshAgent2D.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshAgent2D.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshAgent2D.cs.meta"
+    projectPath: Assets\NavMeshAgent2D.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents.meta"
+    projectPath: Assets\NavMeshComponents.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor.meta"
+    projectPath: Assets\NavMeshComponents\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshAssetManager.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshAssetManager.cs"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshAssetManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshAssetManager.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshAssetManager.cs.meta"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshAssetManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshBuilder2DEditor.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshBuilder2DEditor.cs"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshBuilder2DEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshBuilder2DEditor.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshBuilder2DEditor.cs.meta"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshBuilder2DEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshComponentsEditor.asmdef
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshComponentsEditor.asmdef"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshComponentsEditor.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshComponentsEditor.asmdef.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshComponentsEditor.asmdef.meta"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshComponentsEditor.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshComponentsGUIUtility.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshComponentsGUIUtility.cs"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshComponentsGUIUtility.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshComponentsGUIUtility.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshComponentsGUIUtility.cs.meta"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshComponentsGUIUtility.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshLinkEditor.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshLinkEditor.cs"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshLinkEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshLinkEditor.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshLinkEditor.cs.meta"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshLinkEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshModifierEditor.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshModifierEditor.cs"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshModifierEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshModifierEditor.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshModifierEditor.cs.meta"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshModifierEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshModifierVolumeEditor.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshModifierVolumeEditor.cs"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshModifierVolumeEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshModifierVolumeEditor.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshModifierVolumeEditor.cs.meta"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshModifierVolumeEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshSurfaceEditor.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshSurfaceEditor.cs"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshSurfaceEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Editor\NavMeshSurfaceEditor.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Editor\\NavMeshSurfaceEditor.cs.meta"
+    projectPath: Assets\NavMeshComponents\Editor\NavMeshSurfaceEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts.meta"
+    projectPath: Assets\NavMeshComponents\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshBuilder2D.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshBuilder2D.cs"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshBuilder2D.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshBuilder2D.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshBuilder2D.cs.meta"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshBuilder2D.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshComponents.asmdef
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshComponents.asmdef"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshComponents.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshComponents.asmdef.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshComponents.asmdef.meta"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshComponents.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshLink.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshLink.cs"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshLink.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshLink.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshLink.cs.meta"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshLink.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshModifier.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshModifier.cs"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshModifier.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshModifier.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshModifier.cs.meta"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshModifier.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshModifierVolume.cs"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshModifierVolume.cs.meta"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshSourceTag2D.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshSourceTag2D.cs"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshSourceTag2D.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshSourceTag2D.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshSourceTag2D.cs.meta"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshSourceTag2D.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshSurface.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshSurface.cs"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshSurface.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\NavMeshComponents\Scripts\NavMeshSurface.cs.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\NavMeshComponents\\Scripts\\NavMeshSurface.cs.meta"
+    projectPath: Assets\NavMeshComponents\Scripts\NavMeshSurface.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\New Material 1.mat
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\New
+      Material 1.mat"
+    projectPath: Assets\New Material 1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\New Material 1.mat.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\New
+      Material 1.mat.meta"
+    projectPath: Assets\New Material 1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\New Material.mat
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\New
+      Material.mat"
+    projectPath: Assets\New Material.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\New Material.mat.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\New
+      Material.mat.meta"
+    projectPath: Assets\New Material.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Prefabs\Jack(temp).prefab
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Prefabs\\Jack(temp).prefab"
+    projectPath: Assets\Prefabs\Jack(temp).prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Prefabs\Jack(temp).prefab.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Prefabs\\Jack(temp).prefab.meta"
+    projectPath: Assets\Prefabs\Jack(temp).prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "SpaceJack\\Assets\\Prefabs\\\uACBD\uBE44\uBA54\uCE74A.prefab"
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Prefabs\\\uACBD\uBE44\uBA54\uCE74A.prefab"
+    projectPath: "Assets\\Prefabs\\\uACBD\uBE44\uBA54\uCE74A.prefab"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "SpaceJack\\Assets\\Prefabs\\\uACBD\uBE44\uBA54\uCE74A.prefab.meta"
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Prefabs\\\uACBD\uBE44\uBA54\uCE74A.prefab.meta"
+    projectPath: "Assets\\Prefabs\\\uACBD\uBE44\uBA54\uCE74A.prefab.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Scenes\SampleScene.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Scenes\\SampleScene.meta"
+    projectPath: Assets\Scenes\SampleScene.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Scenes\SampleScene.unity
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Scenes\\SampleScene.unity"
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Scenes\SampleScene.unity.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Scenes\\SampleScene.unity.meta"
+    projectPath: Assets\Scenes\SampleScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Scenes\SampleScene\NavMesh.asset
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Scenes\\SampleScene\\NavMesh.asset"
+    projectPath: Assets\Scenes\SampleScene\NavMesh.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Scenes\SampleScene\NavMesh.asset.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Scenes\\SampleScene\\NavMesh.asset.meta"
+    projectPath: Assets\Scenes\SampleScene\NavMesh.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Scenes\Title.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Scenes\\Title.meta"
+    projectPath: Assets\Scenes\Title.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Scenes\Title.unity
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Scenes\\Title.unity"
+    projectPath: Assets\Scenes\Title.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Assets\Scenes\Title\NavMesh.asset
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Scenes\\Title\\NavMesh.asset"
+    projectPath: Assets\Scenes\Title\NavMesh.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Scenes\Title\NavMesh.asset.meta
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Scenes\\Title\\NavMesh.asset.meta"
+    projectPath: Assets\Scenes\Title\NavMesh.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Assets\Scripts\GameManager.cs
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Scripts\\GameManager.cs"
+    projectPath: Assets\Scripts\GameManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Assets\Sprites\New Palette.prefab
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Sprites\\New
+      Palette.prefab"
+    projectPath: Assets\Sprites\New Palette.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "SpaceJack\\Assets\\Sprites\\\uBCBD5.asset"
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Assets\\Sprites\\\uBCBD5.asset"
+    projectPath: "Assets\\Sprites\\\uBCBD5.asset"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ArtifactDB
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ArtifactDB"
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\Artifacts\04\043b4ea25bf017aeaaf0c60970735f72
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\04\\043b4ea25bf017aeaaf0c60970735f72"
+    projectPath: Library\Artifacts\04\043b4ea25bf017aeaaf0c60970735f72
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\09\09b45a6dfc852efaf0ef20b44fdfd602
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\09\\09b45a6dfc852efaf0ef20b44fdfd602"
+    projectPath: Library\Artifacts\09\09b45a6dfc852efaf0ef20b44fdfd602
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\0a\0a9f046f5edb7c708bb019f4da597ee6
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\0a\\0a9f046f5edb7c708bb019f4da597ee6"
+    projectPath: Library\Artifacts\0a\0a9f046f5edb7c708bb019f4da597ee6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\10\10ac5fcb4d9256f33d18f5310dc31443
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\10\\10ac5fcb4d9256f33d18f5310dc31443"
+    projectPath: Library\Artifacts\10\10ac5fcb4d9256f33d18f5310dc31443
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\13\\135bed32508cff3fabc004308a22c12f"
+    projectPath: Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\18\18c4b532a626a0d3a3ff4ef84d774604
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\18\\18c4b532a626a0d3a3ff4ef84d774604"
+    projectPath: Library\Artifacts\18\18c4b532a626a0d3a3ff4ef84d774604
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\1c\1c55b90694b3c3c34851bc322ec859f8
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\1c\\1c55b90694b3c3c34851bc322ec859f8"
+    projectPath: Library\Artifacts\1c\1c55b90694b3c3c34851bc322ec859f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\1e\1e1e8a149097eb896f8351aa50d9e1d5
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\1e\\1e1e8a149097eb896f8351aa50d9e1d5"
+    projectPath: Library\Artifacts\1e\1e1e8a149097eb896f8351aa50d9e1d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\1e\1ebaf94d6b8a45a9ccd6e4976c49fea8
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\1e\\1ebaf94d6b8a45a9ccd6e4976c49fea8"
+    projectPath: Library\Artifacts\1e\1ebaf94d6b8a45a9ccd6e4976c49fea8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\20\2076b60d7c0addabeb44fa7aafc3f90a
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\20\\2076b60d7c0addabeb44fa7aafc3f90a"
+    projectPath: Library\Artifacts\20\2076b60d7c0addabeb44fa7aafc3f90a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\20\209b50ef224afcd4814a66ef32103013
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\20\\209b50ef224afcd4814a66ef32103013"
+    projectPath: Library\Artifacts\20\209b50ef224afcd4814a66ef32103013
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\21\\2178a8a0fa8308fcfa83c6c3cf779a0c"
+    projectPath: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\27\2751e9a706af1d145717d79b6759b26f
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\27\\2751e9a706af1d145717d79b6759b26f"
+    projectPath: Library\Artifacts\27\2751e9a706af1d145717d79b6759b26f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\2c\2c0a8c2b581e278c81024f265b6c6c11
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\2c\\2c0a8c2b581e278c81024f265b6c6c11"
+    projectPath: Library\Artifacts\2c\2c0a8c2b581e278c81024f265b6c6c11
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\2c\2c66bb3f747092ca8979387432a267bd
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\2c\\2c66bb3f747092ca8979387432a267bd"
+    projectPath: Library\Artifacts\2c\2c66bb3f747092ca8979387432a267bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\2e\\2ea53b6808ba5d5fba564055d6efb2be"
+    projectPath: Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\30\303178c86040d0595fddce4194fdd9fe
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\30\\303178c86040d0595fddce4194fdd9fe"
+    projectPath: Library\Artifacts\30\303178c86040d0595fddce4194fdd9fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\30\307d567647623456675cdc110ed14925
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\30\\307d567647623456675cdc110ed14925"
+    projectPath: Library\Artifacts\30\307d567647623456675cdc110ed14925
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\31\31af294c06e39c99bfcb636d82cb52cf
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\31\\31af294c06e39c99bfcb636d82cb52cf"
+    projectPath: Library\Artifacts\31\31af294c06e39c99bfcb636d82cb52cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\33\33e2cdf6986265a645d07c610d6be8f3
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\33\\33e2cdf6986265a645d07c610d6be8f3"
+    projectPath: Library\Artifacts\33\33e2cdf6986265a645d07c610d6be8f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\35\35def34a39193460a17ed1fbe7093ae9
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\35\\35def34a39193460a17ed1fbe7093ae9"
+    projectPath: Library\Artifacts\35\35def34a39193460a17ed1fbe7093ae9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\37\37e257d393dd5f7eaa92a43fcda570b3
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\37\\37e257d393dd5f7eaa92a43fcda570b3"
+    projectPath: Library\Artifacts\37\37e257d393dd5f7eaa92a43fcda570b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\38\385a629c62d4e3ca86ac7393397ac6b6
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\38\\385a629c62d4e3ca86ac7393397ac6b6"
+    projectPath: Library\Artifacts\38\385a629c62d4e3ca86ac7393397ac6b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\3e\3e9a907b38332755f99add285ca38af7
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\3e\\3e9a907b38332755f99add285ca38af7"
+    projectPath: Library\Artifacts\3e\3e9a907b38332755f99add285ca38af7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\42\4202b367233cc50308e6941ffa6abcf3
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\42\\4202b367233cc50308e6941ffa6abcf3"
+    projectPath: Library\Artifacts\42\4202b367233cc50308e6941ffa6abcf3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\42\4275ce65fbffe24aff3700353558b7ce
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\42\\4275ce65fbffe24aff3700353558b7ce"
+    projectPath: Library\Artifacts\42\4275ce65fbffe24aff3700353558b7ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\43\439903cd144f9ab1bda6cc245064c6f3
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\43\\439903cd144f9ab1bda6cc245064c6f3"
+    projectPath: Library\Artifacts\43\439903cd144f9ab1bda6cc245064c6f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\4a\4a59de208c1fbb6ac1ca5f3dafb552ae
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\4a\\4a59de208c1fbb6ac1ca5f3dafb552ae"
+    projectPath: Library\Artifacts\4a\4a59de208c1fbb6ac1ca5f3dafb552ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\4a\4ae823af69637d777300d8f64fe9733f
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\4a\\4ae823af69637d777300d8f64fe9733f"
+    projectPath: Library\Artifacts\4a\4ae823af69637d777300d8f64fe9733f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\4b\4becc59f15ed8902949b47bca232c50c
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\4b\\4becc59f15ed8902949b47bca232c50c"
+    projectPath: Library\Artifacts\4b\4becc59f15ed8902949b47bca232c50c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\51\5182ed464178d1a190428a3f4c7858a4
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\51\\5182ed464178d1a190428a3f4c7858a4"
+    projectPath: Library\Artifacts\51\5182ed464178d1a190428a3f4c7858a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\54\54fbefdcf1386c64e29992f58bf2bf89
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\54\\54fbefdcf1386c64e29992f58bf2bf89"
+    projectPath: Library\Artifacts\54\54fbefdcf1386c64e29992f58bf2bf89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\55\551f17c4a1adcf82db1a878e6ec9d5b3
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\55\\551f17c4a1adcf82db1a878e6ec9d5b3"
+    projectPath: Library\Artifacts\55\551f17c4a1adcf82db1a878e6ec9d5b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\55\55a5008d58941670bffc44265cd02ab0
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\55\\55a5008d58941670bffc44265cd02ab0"
+    projectPath: Library\Artifacts\55\55a5008d58941670bffc44265cd02ab0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\55\55eff1960771639db70ca6a102a24d66
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\55\\55eff1960771639db70ca6a102a24d66"
+    projectPath: Library\Artifacts\55\55eff1960771639db70ca6a102a24d66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\56\56fe5c4ded65626036e062010722cd6c
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\56\\56fe5c4ded65626036e062010722cd6c"
+    projectPath: Library\Artifacts\56\56fe5c4ded65626036e062010722cd6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\57\5784bc66d0624d61d54d441b6cf87719
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\57\\5784bc66d0624d61d54d441b6cf87719"
+    projectPath: Library\Artifacts\57\5784bc66d0624d61d54d441b6cf87719
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\58\58533935b4998c61d045a61b9edcd975
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\58\\58533935b4998c61d045a61b9edcd975"
+    projectPath: Library\Artifacts\58\58533935b4998c61d045a61b9edcd975
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\5a\5a25b61bfe8574ab87270e859dffa4e5
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\5a\\5a25b61bfe8574ab87270e859dffa4e5"
+    projectPath: Library\Artifacts\5a\5a25b61bfe8574ab87270e859dffa4e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\5b\\5b26994a6d5cdd9a8ea77c9495a6621b"
+    projectPath: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\5d\\5daaf29a33664aa98461368c4c3220a3"
+    projectPath: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\63\638ffc3c42f4ba665056ba4c8d6d6fef
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\63\\638ffc3c42f4ba665056ba4c8d6d6fef"
+    projectPath: Library\Artifacts\63\638ffc3c42f4ba665056ba4c8d6d6fef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\67\6757552102ab4aa45d3144b087b95644
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\67\\6757552102ab4aa45d3144b087b95644"
+    projectPath: Library\Artifacts\67\6757552102ab4aa45d3144b087b95644
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\6b\6b07cfdacb2b6b113700e38355a65063
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\6b\\6b07cfdacb2b6b113700e38355a65063"
+    projectPath: Library\Artifacts\6b\6b07cfdacb2b6b113700e38355a65063
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\6c\6c0c4f1e216ab117093d0d18d12609e9
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\6c\\6c0c4f1e216ab117093d0d18d12609e9"
+    projectPath: Library\Artifacts\6c\6c0c4f1e216ab117093d0d18d12609e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\6d\6d2f619db04ecc80271004036dfe87e5
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\6d\\6d2f619db04ecc80271004036dfe87e5"
+    projectPath: Library\Artifacts\6d\6d2f619db04ecc80271004036dfe87e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\70\701b50b14d4eed126856013c0f4fe977
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\70\\701b50b14d4eed126856013c0f4fe977"
+    projectPath: Library\Artifacts\70\701b50b14d4eed126856013c0f4fe977
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\75\751ec99c4903f392e82d677ec5543db5
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\75\\751ec99c4903f392e82d677ec5543db5"
+    projectPath: Library\Artifacts\75\751ec99c4903f392e82d677ec5543db5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\75\75ef793ed11b93921fc8dda1fff80f3e
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\75\\75ef793ed11b93921fc8dda1fff80f3e"
+    projectPath: Library\Artifacts\75\75ef793ed11b93921fc8dda1fff80f3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\76\760f00213402754965bab34a92f452e8
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\76\\760f00213402754965bab34a92f452e8"
+    projectPath: Library\Artifacts\76\760f00213402754965bab34a92f452e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\76\7677534e6786aea13b916dbdc18e912d
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\76\\7677534e6786aea13b916dbdc18e912d"
+    projectPath: Library\Artifacts\76\7677534e6786aea13b916dbdc18e912d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\77\772fe5717a32158bf16dc0f57c39f487
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\77\\772fe5717a32158bf16dc0f57c39f487"
+    projectPath: Library\Artifacts\77\772fe5717a32158bf16dc0f57c39f487
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\79\79264edf5f35bc7530d780e7dc4e9d93
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\79\\79264edf5f35bc7530d780e7dc4e9d93"
+    projectPath: Library\Artifacts\79\79264edf5f35bc7530d780e7dc4e9d93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\81\81f85fa15412b8b06e988f825666c2c3
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\81\\81f85fa15412b8b06e988f825666c2c3"
+    projectPath: Library\Artifacts\81\81f85fa15412b8b06e988f825666c2c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\83\83fa908007dede65cef27fa3a14ba322
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\83\\83fa908007dede65cef27fa3a14ba322"
+    projectPath: Library\Artifacts\83\83fa908007dede65cef27fa3a14ba322
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\87\878efb68b33537cd47dc7b65082fa21c
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\87\\878efb68b33537cd47dc7b65082fa21c"
+    projectPath: Library\Artifacts\87\878efb68b33537cd47dc7b65082fa21c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\87\87eec8118af0c8f7b9a9b35b6a1a2b26
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\87\\87eec8118af0c8f7b9a9b35b6a1a2b26"
+    projectPath: Library\Artifacts\87\87eec8118af0c8f7b9a9b35b6a1a2b26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\8a\8a05a442fc695aef7e35ea5be5c28c16
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\8a\\8a05a442fc695aef7e35ea5be5c28c16"
+    projectPath: Library\Artifacts\8a\8a05a442fc695aef7e35ea5be5c28c16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\8a\8ac1df6f07c910dd0e03738f6fc127d4
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\8a\\8ac1df6f07c910dd0e03738f6fc127d4"
+    projectPath: Library\Artifacts\8a\8ac1df6f07c910dd0e03738f6fc127d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\8b\8b72585759ef16d398dda7ed43e6b448
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\8b\\8b72585759ef16d398dda7ed43e6b448"
+    projectPath: Library\Artifacts\8b\8b72585759ef16d398dda7ed43e6b448
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\91\914f83c87691136cb8e8aca1ce6e7c0a
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\91\\914f83c87691136cb8e8aca1ce6e7c0a"
+    projectPath: Library\Artifacts\91\914f83c87691136cb8e8aca1ce6e7c0a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\91\91e6a22101f8549b64ab5b3ccc85b77a
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\91\\91e6a22101f8549b64ab5b3ccc85b77a"
+    projectPath: Library\Artifacts\91\91e6a22101f8549b64ab5b3ccc85b77a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\96\968f04528c4bbd7b9fca69f260efb14c
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\96\\968f04528c4bbd7b9fca69f260efb14c"
+    projectPath: Library\Artifacts\96\968f04528c4bbd7b9fca69f260efb14c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\98\9838b7cabb0b25f8c95686992badd82e
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\98\\9838b7cabb0b25f8c95686992badd82e"
+    projectPath: Library\Artifacts\98\9838b7cabb0b25f8c95686992badd82e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\9d\9d764fe2ebb1a5d92b8954048d66b5d7
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\9d\\9d764fe2ebb1a5d92b8954048d66b5d7"
+    projectPath: Library\Artifacts\9d\9d764fe2ebb1a5d92b8954048d66b5d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\a2\a2207a7078dcaed57e8b189433bc5f30
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\a2\\a2207a7078dcaed57e8b189433bc5f30"
+    projectPath: Library\Artifacts\a2\a2207a7078dcaed57e8b189433bc5f30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\a2\a27d1655a8a2814c5048817d6477acbb
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\a2\\a27d1655a8a2814c5048817d6477acbb"
+    projectPath: Library\Artifacts\a2\a27d1655a8a2814c5048817d6477acbb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\a6\a6364a9d87cb037960ac3739acb3dd2d
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\a6\\a6364a9d87cb037960ac3739acb3dd2d"
+    projectPath: Library\Artifacts\a6\a6364a9d87cb037960ac3739acb3dd2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\a9\a90b88bd2b3694eaec8c6fe869084a3a
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\a9\\a90b88bd2b3694eaec8c6fe869084a3a"
+    projectPath: Library\Artifacts\a9\a90b88bd2b3694eaec8c6fe869084a3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\ac\ac82ae7d430f3c56d6d287f9eee03778
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\ac\\ac82ae7d430f3c56d6d287f9eee03778"
+    projectPath: Library\Artifacts\ac\ac82ae7d430f3c56d6d287f9eee03778
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\ad\ad71ed0d90ca6ae87965a81f58a01424
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\ad\\ad71ed0d90ca6ae87965a81f58a01424"
+    projectPath: Library\Artifacts\ad\ad71ed0d90ca6ae87965a81f58a01424
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\b6\b6b05ca3146e082893691c3910917add
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\b6\\b6b05ca3146e082893691c3910917add"
+    projectPath: Library\Artifacts\b6\b6b05ca3146e082893691c3910917add
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\b9\b9e48b0f576200e5269bf1d4ccb6c636
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\b9\\b9e48b0f576200e5269bf1d4ccb6c636"
+    projectPath: Library\Artifacts\b9\b9e48b0f576200e5269bf1d4ccb6c636
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\bf\bfe2f258aaa5512b79bed2dd793d7e84
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\bf\\bfe2f258aaa5512b79bed2dd793d7e84"
+    projectPath: Library\Artifacts\bf\bfe2f258aaa5512b79bed2dd793d7e84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\c4\c4a5bc626520dc050b3db9df9c5410f4
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\c4\\c4a5bc626520dc050b3db9df9c5410f4"
+    projectPath: Library\Artifacts\c4\c4a5bc626520dc050b3db9df9c5410f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\c9\c9241d1bc4c915ccfee6bc7bcd4f4aa4
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\c9\\c9241d1bc4c915ccfee6bc7bcd4f4aa4"
+    projectPath: Library\Artifacts\c9\c9241d1bc4c915ccfee6bc7bcd4f4aa4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\ca\caba75b9a75b44f7ca68f52f7fbe2394
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\ca\\caba75b9a75b44f7ca68f52f7fbe2394"
+    projectPath: Library\Artifacts\ca\caba75b9a75b44f7ca68f52f7fbe2394
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\cb\cb9e62d8382d6b97fca92d86bf19a74a
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\cb\\cb9e62d8382d6b97fca92d86bf19a74a"
+    projectPath: Library\Artifacts\cb\cb9e62d8382d6b97fca92d86bf19a74a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\cd\cd870fec8ef5b0ee2839a2095ac5ec7b
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\cd\\cd870fec8ef5b0ee2839a2095ac5ec7b"
+    projectPath: Library\Artifacts\cd\cd870fec8ef5b0ee2839a2095ac5ec7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\cd\cd8bbc67c7ee058add12ab302fcfca83
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\cd\\cd8bbc67c7ee058add12ab302fcfca83"
+    projectPath: Library\Artifacts\cd\cd8bbc67c7ee058add12ab302fcfca83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\ce\ce9fd7e676fe056116da2edbe5eb704b
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\ce\\ce9fd7e676fe056116da2edbe5eb704b"
+    projectPath: Library\Artifacts\ce\ce9fd7e676fe056116da2edbe5eb704b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\ce\ceddd758119a91d2f16ae817fef6f326
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\ce\\ceddd758119a91d2f16ae817fef6f326"
+    projectPath: Library\Artifacts\ce\ceddd758119a91d2f16ae817fef6f326
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\d3\d38aab87e48d6a1e10f27dadeb9e627b
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\d3\\d38aab87e48d6a1e10f27dadeb9e627b"
+    projectPath: Library\Artifacts\d3\d38aab87e48d6a1e10f27dadeb9e627b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\d6\d611316374e6570f36ad524e9cf225ff
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\d6\\d611316374e6570f36ad524e9cf225ff"
+    projectPath: Library\Artifacts\d6\d611316374e6570f36ad524e9cf225ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\d7\d7b6c3b7bd244c96a8dae1424c64799f
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\d7\\d7b6c3b7bd244c96a8dae1424c64799f"
+    projectPath: Library\Artifacts\d7\d7b6c3b7bd244c96a8dae1424c64799f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\d9\d95ca258c23845a87de8e2d17bd30d37
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\d9\\d95ca258c23845a87de8e2d17bd30d37"
+    projectPath: Library\Artifacts\d9\d95ca258c23845a87de8e2d17bd30d37
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\e0\e084fe1929699bb538540d56a19dae42
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\e0\\e084fe1929699bb538540d56a19dae42"
+    projectPath: Library\Artifacts\e0\e084fe1929699bb538540d56a19dae42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\e4\e43123365b74b889978b8f13e7cdb91f
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\e4\\e43123365b74b889978b8f13e7cdb91f"
+    projectPath: Library\Artifacts\e4\e43123365b74b889978b8f13e7cdb91f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\e4\e4dd74da7c1344d5b9a146fdffe3364b
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\e4\\e4dd74da7c1344d5b9a146fdffe3364b"
+    projectPath: Library\Artifacts\e4\e4dd74da7c1344d5b9a146fdffe3364b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\e4\e4fa90440ccae41edc65b3afd21dc2c6
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\e4\\e4fa90440ccae41edc65b3afd21dc2c6"
+    projectPath: Library\Artifacts\e4\e4fa90440ccae41edc65b3afd21dc2c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\e9\e922b7e2ba702df45ddff357fb0454e4
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\e9\\e922b7e2ba702df45ddff357fb0454e4"
+    projectPath: Library\Artifacts\e9\e922b7e2ba702df45ddff357fb0454e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\e9\e985f69b817736ee76f33f22e4b05d6a
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\e9\\e985f69b817736ee76f33f22e4b05d6a"
+    projectPath: Library\Artifacts\e9\e985f69b817736ee76f33f22e4b05d6a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\ec\ec1b8e88bd7b7b69e9cd9d61e81ad1d8
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\ec\\ec1b8e88bd7b7b69e9cd9d61e81ad1d8"
+    projectPath: Library\Artifacts\ec\ec1b8e88bd7b7b69e9cd9d61e81ad1d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\f0\f01f46a9dc8ec0369c387ff9f56e0c23
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\f0\\f01f46a9dc8ec0369c387ff9f56e0c23"
+    projectPath: Library\Artifacts\f0\f01f46a9dc8ec0369c387ff9f56e0c23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\f1\f1ed79e9659ee40d03eafd43fc3edee7
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\f1\\f1ed79e9659ee40d03eafd43fc3edee7"
+    projectPath: Library\Artifacts\f1\f1ed79e9659ee40d03eafd43fc3edee7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\f5\f5217365b8d82a1b3338b7fe25df835b
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\f5\\f5217365b8d82a1b3338b7fe25df835b"
+    projectPath: Library\Artifacts\f5\f5217365b8d82a1b3338b7fe25df835b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\f6\f60f85c9ec3bf350561308d238128a7d
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\f6\\f60f85c9ec3bf350561308d238128a7d"
+    projectPath: Library\Artifacts\f6\f60f85c9ec3bf350561308d238128a7d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\f9\f99dc4b545fe4b92220427da2d15add4
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\f9\\f99dc4b545fe4b92220427da2d15add4"
+    projectPath: Library\Artifacts\f9\f99dc4b545fe4b92220427da2d15add4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\Artifacts\ff\ffa33fd4ff5d939372622b38001859a2
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\Artifacts\\ff\\ffa33fd4ff5d939372622b38001859a2"
+    projectPath: Library\Artifacts\ff\ffa33fd4ff5d939372622b38001859a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\CurrentLayout-default.dwlt
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\CurrentLayout-default.dwlt"
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\CurrentMaximizeLayout.dwlt
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\CurrentMaximizeLayout.dwlt"
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\EditorInstance.json
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\EditorInstance.json"
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\gfu\cache\gitlocks.yaml
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\gfu\\cache\\gitlocks.yaml"
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\gfu\\cache\\gitstatusentries.yaml"
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\gfu\\cache\\gittrackingstatus.yaml"
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\gfu\cache\repoinfo.yaml
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\gfu\\cache\\repoinfo.yaml"
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\GridBrush\\UnityEditor.Tilemaps.GridBrush.asset"
+    projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\InspectorExpandedItems.asset
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\InspectorExpandedItems.asset"
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\PackageManager\ProjectCache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\PackageManager\\ProjectCache"
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\PackageManager\ProjectCache.md5
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\PackageManager\\ProjectCache.md5"
+    projectPath: Library\PackageManager\ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\SceneVisibilityState.asset
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\SceneVisibilityState.asset"
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Analytics.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Analytics.dll"
+    projectPath: Library\ScriptAssemblies\Analytics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Assembly-CSharp.dll"
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Assembly-CSharp-Editor.dll"
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Assembly-CSharp-Editor-firstpass.dll"
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Assembly-CSharp-firstpass.dll"
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\NavMeshComponents.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\NavMeshComponents.dll"
+    projectPath: Library\ScriptAssemblies\NavMeshComponents.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ScriptAssemblies\NavMeshComponentsEditor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\NavMeshComponentsEditor.dll"
+    projectPath: Library\ScriptAssemblies\NavMeshComponentsEditor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ScriptAssemblies\Purchasing.Common.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Purchasing.Common.dll"
+    projectPath: Library\ScriptAssemblies\Purchasing.Common.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.2D.Sprite.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.2D.Tilemap.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.Analytics.DataPrivacy.dll"
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.CollabProxy.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.PlasticSCM.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.Rider.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.Services.Core.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll"
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.TextMeshPro.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.Timeline.dll"
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.Timeline.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.VisualStudio.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\Unity.VSCode.Editor.dll"
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEditor.Purchasing.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEditor.Purchasing.dll"
+    projectPath: Library\ScriptAssemblies\UnityEditor.Purchasing.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEditor.SpatialTracking.dll"
+    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEditor.TestRunner.dll"
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEditor.UI.dll"
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEditor.XR.LegacyInputHelpers.dll"
+    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Advertisements.DevX.Editor.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Advertisements.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Advertisements.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Advertisements.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Advertisements.Editor.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Monetization.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Monetization.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Monetization.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Purchasing.AppleCore.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Purchasing.AppleMacosStub.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Purchasing.AppleStub.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Purchasing.Codeless.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Purchasing.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Purchasing.SecurityCore.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Purchasing.SecurityStub.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Purchasing.Stores.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Purchasing.WinRTCore.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.Purchasing.WinRTStub.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.SpatialTracking.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.UI.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll"
+    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ShaderCache\0\03d66bcb77c8ef4ac2b39d538e9d755b.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\0\\03d66bcb77c8ef4ac2b39d538e9d755b.bin"
+    projectPath: Library\ShaderCache\0\03d66bcb77c8ef4ac2b39d538e9d755b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\3\3e17167dc7258454162037746a04317c.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\3\\3e17167dc7258454162037746a04317c.bin"
+    projectPath: Library\ShaderCache\3\3e17167dc7258454162037746a04317c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\4\48301d6643083278e0d442140dec92f3.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\4\\48301d6643083278e0d442140dec92f3.bin"
+    projectPath: Library\ShaderCache\4\48301d6643083278e0d442140dec92f3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\4\495039b8d28ad2557f21d33d584de4df.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\4\\495039b8d28ad2557f21d33d584de4df.bin"
+    projectPath: Library\ShaderCache\4\495039b8d28ad2557f21d33d584de4df.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\4\4a4d618884940d605f59b0da4e784466.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\4\\4a4d618884940d605f59b0da4e784466.bin"
+    projectPath: Library\ShaderCache\4\4a4d618884940d605f59b0da4e784466.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\6\631204715ac5c0c092d90ee2053da204.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\6\\631204715ac5c0c092d90ee2053da204.bin"
+    projectPath: Library\ShaderCache\6\631204715ac5c0c092d90ee2053da204.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\7\78ef5443ceaa6b06d8b768a8454e25b2.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\7\\78ef5443ceaa6b06d8b768a8454e25b2.bin"
+    projectPath: Library\ShaderCache\7\78ef5443ceaa6b06d8b768a8454e25b2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\7\79a3c28c31648696b4cb2391fd5b0401.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\7\\79a3c28c31648696b4cb2391fd5b0401.bin"
+    projectPath: Library\ShaderCache\7\79a3c28c31648696b4cb2391fd5b0401.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\7\7e14e5349601a08b671787506e52ab7c.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\7\\7e14e5349601a08b671787506e52ab7c.bin"
+    projectPath: Library\ShaderCache\7\7e14e5349601a08b671787506e52ab7c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\8\8385e164e1f99bdd9e31006a44323949.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\8\\8385e164e1f99bdd9e31006a44323949.bin"
+    projectPath: Library\ShaderCache\8\8385e164e1f99bdd9e31006a44323949.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\8\86a79cdd374c3639f2c55416c8b2eb72.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\8\\86a79cdd374c3639f2c55416c8b2eb72.bin"
+    projectPath: Library\ShaderCache\8\86a79cdd374c3639f2c55416c8b2eb72.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\8\8bb747259be916281b5870e2253ea3af.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\8\\8bb747259be916281b5870e2253ea3af.bin"
+    projectPath: Library\ShaderCache\8\8bb747259be916281b5870e2253ea3af.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\8\8d543baf1e77f49f1820df03bf7f3af4.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\8\\8d543baf1e77f49f1820df03bf7f3af4.bin"
+    projectPath: Library\ShaderCache\8\8d543baf1e77f49f1820df03bf7f3af4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\a\a700ff3fdcfafe8f4f1cd93b1e70c3cc.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\a\\a700ff3fdcfafe8f4f1cd93b1e70c3cc.bin"
+    projectPath: Library\ShaderCache\a\a700ff3fdcfafe8f4f1cd93b1e70c3cc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\a\ad85fb9f79b5237bd133b42660a221f7.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\a\\ad85fb9f79b5237bd133b42660a221f7.bin"
+    projectPath: Library\ShaderCache\a\ad85fb9f79b5237bd133b42660a221f7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\a\af800d6d639150fcf0a37d8b64f97c27.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\a\\af800d6d639150fcf0a37d8b64f97c27.bin"
+    projectPath: Library\ShaderCache\a\af800d6d639150fcf0a37d8b64f97c27.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\d\d0b1b561d9e8c38b0e29935af477ce5c.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\d\\d0b1b561d9e8c38b0e29935af477ce5c.bin"
+    projectPath: Library\ShaderCache\d\d0b1b561d9e8c38b0e29935af477ce5c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\d\d1210ddd704087f00c9e7dc2f4c3d2b3.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\d\\d1210ddd704087f00c9e7dc2f4c3d2b3.bin"
+    projectPath: Library\ShaderCache\d\d1210ddd704087f00c9e7dc2f4c3d2b3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\d\df16ab94a658c59a667606faac7e80bd.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\d\\df16ab94a658c59a667606faac7e80bd.bin"
+    projectPath: Library\ShaderCache\d\df16ab94a658c59a667606faac7e80bd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\EditorEncounteredVariants"
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\ShaderCache\f\fd4a78c3898616b7bb6f0a96090f3386.bin
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\ShaderCache\\f\\fd4a78c3898616b7bb6f0a96090f3386.bin"
+    projectPath: Library\ShaderCache\f\fd4a78c3898616b7bb6f0a96090f3386.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\SourceAssetDB
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\SourceAssetDB"
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\StateCache\\MainStageHierarchy\\4d\\4d2a36d9faf65734f0bbefb3ee623532.json"
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Library\StateCache\PrefabStageHierarchy\53\53a391dfec4609686b8126acd9c84653.json
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\StateCache\\PrefabStageHierarchy\\53\\53a391dfec4609686b8126acd9c84653.json"
+    projectPath: Library\StateCache\PrefabStageHierarchy\53\53a391dfec4609686b8126acd9c84653.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\StateCache\PrefabStageHierarchy\72\72214eee73b9edac976c395ac75b823f.json
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\StateCache\\PrefabStageHierarchy\\72\\72214eee73b9edac976c395ac75b823f.json"
+    projectPath: Library\StateCache\PrefabStageHierarchy\72\72214eee73b9edac976c395ac75b823f.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\StateCache\SceneView\2c\2cc1a007552551372961ae601872155a.json
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\StateCache\\SceneView\\2c\\2cc1a007552551372961ae601872155a.json"
+    projectPath: Library\StateCache\SceneView\2c\2cc1a007552551372961ae601872155a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Library\\StateCache\\SceneView\\8c\\8cd7c613bf844de3b80696e27a479d5e.json"
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Logs\ApiUpdaterCheck.txt
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\ApiUpdaterCheck.txt"
+    projectPath: Logs\ApiUpdaterCheck.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Logs\AssetImportWorker0.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\AssetImportWorker0.log"
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Logs\AssetImportWorker0-prev.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\AssetImportWorker0-prev.log"
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Logs\AssetImportWorker1.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\AssetImportWorker1.log"
+    projectPath: Logs\AssetImportWorker1.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Logs\AssetImportWorker2.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\AssetImportWorker2.log"
+    projectPath: Logs\AssetImportWorker2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\shadercompiler-AssetImportWorker0.log"
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\shadercompiler-UnityShaderCompiler.exe0.log"
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\shadercompiler-UnityShaderCompiler.exe1.log"
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\shadercompiler-UnityShaderCompiler.exe2.log"
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\shadercompiler-UnityShaderCompiler.exe3.log"
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\shadercompiler-UnityShaderCompiler.exe4.log"
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\shadercompiler-UnityShaderCompiler.exe5.log"
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\shadercompiler-UnityShaderCompiler.exe6.log"
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Logs\\shadercompiler-UnityShaderCompiler.exe7.log"
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\obj\\Debug\\Assembly-CSharp.csproj.CoreCompileInputs.cache"
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\obj\\Debug\\Assembly-CSharp.csprojAssemblyReference.cache"
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\obj\\Debug\\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache"
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\obj\\Debug\\Assembly-CSharp-Editor.csprojAssemblyReference.cache"
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\obj\\Debug\\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache"
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\obj\\Debug\\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache"
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\obj\\Debug\\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache"
+    projectPath: obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\obj\\Debug\\Assembly-CSharp-firstpass.csprojAssemblyReference.cache"
+    projectPath: obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\obj\Debug\NavMeshComponents.csproj.CoreCompileInputs.cache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\obj\\Debug\\NavMeshComponents.csproj.CoreCompileInputs.cache"
+    projectPath: obj\Debug\NavMeshComponents.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\obj\Debug\NavMeshComponents.csprojAssemblyReference.cache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\obj\\Debug\\NavMeshComponents.csprojAssemblyReference.cache"
+    projectPath: obj\Debug\NavMeshComponents.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\obj\Debug\NavMeshComponentsEditor.csproj.CoreCompileInputs.cache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\obj\\Debug\\NavMeshComponentsEditor.csproj.CoreCompileInputs.cache"
+    projectPath: obj\Debug\NavMeshComponentsEditor.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\obj\Debug\NavMeshComponentsEditor.csprojAssemblyReference.cache
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\obj\\Debug\\NavMeshComponentsEditor.csprojAssemblyReference.cache"
+    projectPath: obj\Debug\NavMeshComponentsEditor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\ProjectSettings\NavMeshAreas.asset
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\ProjectSettings\\NavMeshAreas.asset"
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\ProjectSettings\TagManager.asset
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\ProjectSettings\\TagManager.asset"
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceJack\Temp\__Backupscenes\0.backup
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\__Backupscenes\\0.backup"
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\Assembly-CSharp.dll.hash
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\Assembly-CSharp.dll.hash"
+    projectPath: Temp\Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\Assembly-CSharp-Editor.dll.hash
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\Assembly-CSharp-Editor.dll.hash"
+    projectPath: Temp\Assembly-CSharp-Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\CompilationLog.txt
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\CompilationLog.txt"
+    projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityLockfile
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityLockfile"
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-094bd4f31a28ef840834202ed33c40f9
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-094bd4f31a28ef840834202ed33c40f9"
+    projectPath: Temp\UnityTempFile-094bd4f31a28ef840834202ed33c40f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-1450140365cab804b80f3948c8acc66a
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-1450140365cab804b80f3948c8acc66a"
+    projectPath: Temp\UnityTempFile-1450140365cab804b80f3948c8acc66a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-17faa1e51666a4943b7956b7264b43ff
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-17faa1e51666a4943b7956b7264b43ff"
+    projectPath: Temp\UnityTempFile-17faa1e51666a4943b7956b7264b43ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-2eb673310d03e3f41a50d1df30df4e4a
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-2eb673310d03e3f41a50d1df30df4e4a"
+    projectPath: Temp\UnityTempFile-2eb673310d03e3f41a50d1df30df4e4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-424450e9a62353e4b8c47eda102ac177
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-424450e9a62353e4b8c47eda102ac177"
+    projectPath: Temp\UnityTempFile-424450e9a62353e4b8c47eda102ac177
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-74c4e603a22f436479f763610e930db4
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-74c4e603a22f436479f763610e930db4"
+    projectPath: Temp\UnityTempFile-74c4e603a22f436479f763610e930db4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-790ede8c4a9948e40a8a99d7a26dc7fc
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-790ede8c4a9948e40a8a99d7a26dc7fc"
+    projectPath: Temp\UnityTempFile-790ede8c4a9948e40a8a99d7a26dc7fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-7f65b8fd8e1b81e44adde9a289051443
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-7f65b8fd8e1b81e44adde9a289051443"
+    projectPath: Temp\UnityTempFile-7f65b8fd8e1b81e44adde9a289051443
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-8e574fa0969abcd4193c3471bdd991c3
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-8e574fa0969abcd4193c3471bdd991c3"
+    projectPath: Temp\UnityTempFile-8e574fa0969abcd4193c3471bdd991c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-9cefceb033bd5a44f9e6dcfca62a5384
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-9cefceb033bd5a44f9e6dcfca62a5384"
+    projectPath: Temp\UnityTempFile-9cefceb033bd5a44f9e6dcfca62a5384
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-a08410724827764478991b3740e58a27
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-a08410724827764478991b3740e58a27"
+    projectPath: Temp\UnityTempFile-a08410724827764478991b3740e58a27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-c86d6e1c181e71e4c840375f409574c5
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-c86d6e1c181e71e4c840375f409574c5"
+    projectPath: Temp\UnityTempFile-c86d6e1c181e71e4c840375f409574c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-d00e3a2170b91b244abe2cec18587b89
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-d00e3a2170b91b244abe2cec18587b89"
+    projectPath: Temp\UnityTempFile-d00e3a2170b91b244abe2cec18587b89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-d2fa6da541e61a74e987ad7e7ffd959c
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-d2fa6da541e61a74e987ad7e7ffd959c"
+    projectPath: Temp\UnityTempFile-d2fa6da541e61a74e987ad7e7ffd959c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-e8a3153f46641f143a1525b27e647e17
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-e8a3153f46641f143a1525b27e647e17"
+    projectPath: Temp\UnityTempFile-e8a3153f46641f143a1525b27e647e17
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\UnityTempFile-ff45321b19636614199e78744656be73
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\UnityTempFile-ff45321b19636614199e78744656be73"
+    projectPath: Temp\UnityTempFile-ff45321b19636614199e78744656be73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\Temp\workerlic
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\Temp\\workerlic"
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceJack\UserSettings\EditorUserSettings.asset
+    fullPath: "C:\\Users\\yjuu1\\OneDrive\\\uBB38\uC11C\\GitHub\\Capston_team5\\SpaceJack\\UserSettings\\EditorUserSettings.asset"
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
