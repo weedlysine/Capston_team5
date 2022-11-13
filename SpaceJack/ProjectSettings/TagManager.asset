@@ -21,6 +21,7 @@ TagManager:
   - weaponID_8
   - explosive
   - barricade
+  - leader
   layers:
   - Default
   - TransparentFX
