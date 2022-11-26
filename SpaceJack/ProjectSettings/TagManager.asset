@@ -32,8 +32,8 @@ TagManager:
   - 
   - 
   - wall
-  - 
-  - 
+  - enemy
+  - unselectable
   - 
   - 
   - 
