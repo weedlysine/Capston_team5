@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-using WindowsInput;
 
 public class Jack : MonoBehaviour
 { 
@@ -159,18 +158,18 @@ public class Jack : MonoBehaviour
     {
         dx = 0;
         dy = 0;
-        if(WinInput.GetKey(KeyCode.A)){
+        if(Input.GetKey(KeyCode.A)){
             dx--;
             transform.localScale = new Vector3(1, 1, 1);
         }
-        if(WinInput.GetKey(KeyCode.D)){
+        if(Input.GetKey(KeyCode.D)){
             dx++;
             transform.localScale = new Vector3(-1, 1, 1);
         }
-        if(WinInput.GetKey(KeyCode.S)){
+        if(Input.GetKey(KeyCode.S)){
             dy--;
         }
-        if(WinInput.GetKey(KeyCode.W)){
+        if(Input.GetKey(KeyCode.W)){
             dy++;
         }
         gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(dx,dy,0).normalized * speed;
