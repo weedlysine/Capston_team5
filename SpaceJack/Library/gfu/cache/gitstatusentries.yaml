@@ -13,1308 +13,387 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-11-27T15:41:54.716+09:00
-  initializedAtString: 2022-11-27T15:41:53.804+09:00
+  lastUpdatedAtString: 2022-11-27T16:11:43.327+09:00
+  initializedAtString: 2022-11-27T16:11:33.687+09:00
   entries:
-  - path: Capston_team5
-    fullPath: C:\Capston_team5\Capston_team5
-    projectPath: ..\Capston_team5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceJack\Assets\Behavior Designer Movement\Scripts\Tasks\Patrol.cs
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Behavior Designer Movement\Scripts\Tasks\Patrol.cs
-    projectPath: Assets\Behavior Designer Movement\Scripts\Tasks\Patrol.cs
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
   - path: SpaceJack\Assets\Scenes\SampleScene.unity.meta
     fullPath: C:\Capston_team5\SpaceJack\Assets\Scenes\SampleScene.unity.meta
     projectPath: Assets\Scenes\SampleScene.unity.meta
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
-  - path: SpaceJack\Assets\Sprites\Objects.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects.meta
-    projectPath: Assets\Sprites\Objects.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Box.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Box.meta
-    projectPath: Assets\Sprites\Objects\Box.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Box\Box1.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Box\Box1.png
-    projectPath: Assets\Sprites\Objects\Box\Box1.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Box\Box1.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Box\Box1.png.meta
-    projectPath: Assets\Sprites\Objects\Box\Box1.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Box\Box2.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Box\Box2.png
-    projectPath: Assets\Sprites\Objects\Box\Box2.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Box\Box2.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Box\Box2.png.meta
-    projectPath: Assets\Sprites\Objects\Box\Box2.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Box\Box3.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Box\Box3.png
-    projectPath: Assets\Sprites\Objects\Box\Box3.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Box\Box3.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Box\Box3.png.meta
-    projectPath: Assets\Sprites\Objects\Box\Box3.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Box\Box4.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Box\Box4.png
-    projectPath: Assets\Sprites\Objects\Box\Box4.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Box\Box4.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Box\Box4.png.meta
-    projectPath: Assets\Sprites\Objects\Box\Box4.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Bullet.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Bullet.png
-    projectPath: Assets\Sprites\Objects\Bullet.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Bullet.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Bullet.png.meta
-    projectPath: Assets\Sprites\Objects\Bullet.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Tile.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Tile.meta
-    projectPath: Assets\Sprites\Objects\Tile.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Tile\MapTile.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Tile\MapTile.png
-    projectPath: Assets\Sprites\Objects\Tile\MapTile.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Tile\MapTile.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Tile\MapTile.png.meta
-    projectPath: Assets\Sprites\Objects\Tile\MapTile.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall.meta
-    projectPath: Assets\Sprites\Objects\Wall.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_column_1.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_column_1.png
-    projectPath: Assets\Sprites\Objects\Wall\Wall_column_1.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_column_1.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_column_1.png.meta
-    projectPath: Assets\Sprites\Objects\Wall\Wall_column_1.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_column_2.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_column_2.png
-    projectPath: Assets\Sprites\Objects\Wall\Wall_column_2.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_column_2.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_column_2.png.meta
-    projectPath: Assets\Sprites\Objects\Wall\Wall_column_2.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_column_3.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_column_3.png
-    projectPath: Assets\Sprites\Objects\Wall\Wall_column_3.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_column_3.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_column_3.png.meta
-    projectPath: Assets\Sprites\Objects\Wall\Wall_column_3.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_crossPoint.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_crossPoint.png
-    projectPath: Assets\Sprites\Objects\Wall\Wall_crossPoint.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_crossPoint.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_crossPoint.png.meta
-    projectPath: Assets\Sprites\Objects\Wall\Wall_crossPoint.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_row_1.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_row_1.png
-    projectPath: Assets\Sprites\Objects\Wall\Wall_row_1.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_row_1.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_row_1.png.meta
-    projectPath: Assets\Sprites\Objects\Wall\Wall_row_1.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_row_2.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_row_2.png
-    projectPath: Assets\Sprites\Objects\Wall\Wall_row_2.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_row_2.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_row_2.png.meta
-    projectPath: Assets\Sprites\Objects\Wall\Wall_row_2.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_row_3.png
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_row_3.png
-    projectPath: Assets\Sprites\Objects\Wall\Wall_row_3.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Assets\Sprites\Objects\Wall\Wall_row_3.png.meta
-    fullPath: C:\Capston_team5\SpaceJack\Assets\Sprites\Objects\Wall\Wall_row_3.png.meta
-    projectPath: Assets\Sprites\Objects\Wall\Wall_row_3.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\APIUpdater\project-dependencies.graph
-    fullPath: C:\Capston_team5\SpaceJack\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
   - path: SpaceJack\Library\ArtifactDB
     fullPath: C:\Capston_team5\SpaceJack\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: SpaceJack\Library\Artifacts\00\0052a6108a09444a36f6b2e221ad8b76
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\00\0052a6108a09444a36f6b2e221ad8b76
-    projectPath: Library\Artifacts\00\0052a6108a09444a36f6b2e221ad8b76
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\01\013748bbdbbd3d5f2e5be58e81d959ac
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\01\013748bbdbbd3d5f2e5be58e81d959ac
-    projectPath: Library\Artifacts\01\013748bbdbbd3d5f2e5be58e81d959ac
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\01\0140e5f55e87c6c559217e1c58777c06
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\01\0140e5f55e87c6c559217e1c58777c06
-    projectPath: Library\Artifacts\01\0140e5f55e87c6c559217e1c58777c06
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\01\017696a002742d5217573995774efca5
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\01\017696a002742d5217573995774efca5
-    projectPath: Library\Artifacts\01\017696a002742d5217573995774efca5
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\01\018cfec67af480df564d1bb526f6d834
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\01\018cfec67af480df564d1bb526f6d834
-    projectPath: Library\Artifacts\01\018cfec67af480df564d1bb526f6d834
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\01\01d8e5baddae7c4cf70a24bfb1bfbacc
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\01\01d8e5baddae7c4cf70a24bfb1bfbacc
-    projectPath: Library\Artifacts\01\01d8e5baddae7c4cf70a24bfb1bfbacc
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\05\0532e6f199be57a1300562d7200dd6c5
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\05\0532e6f199be57a1300562d7200dd6c5
-    projectPath: Library\Artifacts\05\0532e6f199be57a1300562d7200dd6c5
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\05\055543b4fbd8008d4521f62a65f31960
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\05\055543b4fbd8008d4521f62a65f31960
-    projectPath: Library\Artifacts\05\055543b4fbd8008d4521f62a65f31960
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\05\05983a9a7b2784ae2f719be96eae50a3
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\05\05983a9a7b2784ae2f719be96eae50a3
-    projectPath: Library\Artifacts\05\05983a9a7b2784ae2f719be96eae50a3
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\05\05c926bba6e760c4c8ff5edc4d86a1ef
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\05\05c926bba6e760c4c8ff5edc4d86a1ef
-    projectPath: Library\Artifacts\05\05c926bba6e760c4c8ff5edc4d86a1ef
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\06\0653b0b0fa82ba4bf335a90967a9235b
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\06\0653b0b0fa82ba4bf335a90967a9235b
-    projectPath: Library\Artifacts\06\0653b0b0fa82ba4bf335a90967a9235b
-    originalPath: SpaceJack\Library\Artifacts\72\721341676fd1e721c014a7244396a1f4
-    indexStatus: 6
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\08\08a058534950bbe354f030757139aa83
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\08\08a058534950bbe354f030757139aa83
-    projectPath: Library\Artifacts\08\08a058534950bbe354f030757139aa83
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\09\09b45a6dfc852efaf0ef20b44fdfd602
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\09\09b45a6dfc852efaf0ef20b44fdfd602
-    projectPath: Library\Artifacts\09\09b45a6dfc852efaf0ef20b44fdfd602
-    originalPath: SpaceJack\Library\Artifacts\ee\eeaded64e57e0214b8dd7eeeebf61058
-    indexStatus: 6
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\0a\0a8c4c9e0511b6b7d2c9756c540b2405
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\0a\0a8c4c9e0511b6b7d2c9756c540b2405
-    projectPath: Library\Artifacts\0a\0a8c4c9e0511b6b7d2c9756c540b2405
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\10\10ac5fcb4d9256f33d18f5310dc31443
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\10\10ac5fcb4d9256f33d18f5310dc31443
-    projectPath: Library\Artifacts\10\10ac5fcb4d9256f33d18f5310dc31443
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\11\1102da940cda0b188fc1ff01f6c00af8 -> SpaceJack\Library\Artifacts\e6\e64234ab640d389cb8fc2e06390258ab
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\11\1102da940cda0b188fc1ff01f6c00af8
-      -> SpaceJack\Library\Artifacts\e6\e64234ab640d389cb8fc2e06390258ab
-    projectPath: Library\Artifacts\11\1102da940cda0b188fc1ff01f6c00af8 -> SpaceJack\Library\Artifacts\e6\e64234ab640d389cb8fc2e06390258ab
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\14\14799e1552cdade80e999aad7a16a7c9 -> SpaceJack\Library\Artifacts\df\dfb2dc5fd59591e7dc532a4a216a78a2
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\14\14799e1552cdade80e999aad7a16a7c9
-      -> SpaceJack\Library\Artifacts\df\dfb2dc5fd59591e7dc532a4a216a78a2
-    projectPath: Library\Artifacts\14\14799e1552cdade80e999aad7a16a7c9 -> SpaceJack\Library\Artifacts\df\dfb2dc5fd59591e7dc532a4a216a78a2
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\14\14ea3ac12cd36f4f05f93eb8be4e25c8
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\14\14ea3ac12cd36f4f05f93eb8be4e25c8
-    projectPath: Library\Artifacts\14\14ea3ac12cd36f4f05f93eb8be4e25c8
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\16\160c520a5a08628219460ebe7544a69a -> SpaceJack\Library\Artifacts\31\31d7b15cc9eb94befc980660efdbe37f
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\16\160c520a5a08628219460ebe7544a69a
-      -> SpaceJack\Library\Artifacts\31\31d7b15cc9eb94befc980660efdbe37f
-    projectPath: Library\Artifacts\16\160c520a5a08628219460ebe7544a69a -> SpaceJack\Library\Artifacts\31\31d7b15cc9eb94befc980660efdbe37f
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\18\18be2b4f2770cb823337c01b0efd54c9 -> SpaceJack\Library\Artifacts\67\67f6755524e2b4fe6edd2697f0fba4ea
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\18\18be2b4f2770cb823337c01b0efd54c9
-      -> SpaceJack\Library\Artifacts\67\67f6755524e2b4fe6edd2697f0fba4ea
-    projectPath: Library\Artifacts\18\18be2b4f2770cb823337c01b0efd54c9 -> SpaceJack\Library\Artifacts\67\67f6755524e2b4fe6edd2697f0fba4ea
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\1a\1a20675516a7fc7bbce3c7943011f710
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\1a\1a20675516a7fc7bbce3c7943011f710
-    projectPath: Library\Artifacts\1a\1a20675516a7fc7bbce3c7943011f710
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\1b\1b01ef86b7bd98cc51ac92e7e322639b
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\1b\1b01ef86b7bd98cc51ac92e7e322639b
-    projectPath: Library\Artifacts\1b\1b01ef86b7bd98cc51ac92e7e322639b
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\1b\1bac8746dcfd3eb4e2ef4baad5cd5ecb
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\1b\1bac8746dcfd3eb4e2ef4baad5cd5ecb
-    projectPath: Library\Artifacts\1b\1bac8746dcfd3eb4e2ef4baad5cd5ecb
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\1c\1cb631eab499dd35b14317997b0d99c0 -> SpaceJack\Library\Artifacts\37\3722952dfa171d2d49bcadda7aeca8bf
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\1c\1cb631eab499dd35b14317997b0d99c0
-      -> SpaceJack\Library\Artifacts\37\3722952dfa171d2d49bcadda7aeca8bf
-    projectPath: Library\Artifacts\1c\1cb631eab499dd35b14317997b0d99c0 -> SpaceJack\Library\Artifacts\37\3722952dfa171d2d49bcadda7aeca8bf
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\1e\1e2cb6bb2ace73c73e45aea78c3f6d5c
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\1e\1e2cb6bb2ace73c73e45aea78c3f6d5c
-    projectPath: Library\Artifacts\1e\1e2cb6bb2ace73c73e45aea78c3f6d5c
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\1e\1ee5a28594a0fbb70ed34e06e23e567b
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\1e\1ee5a28594a0fbb70ed34e06e23e567b
-    projectPath: Library\Artifacts\1e\1ee5a28594a0fbb70ed34e06e23e567b
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\1f\1f52ebc22789ba331886c54da293f5e7
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\1f\1f52ebc22789ba331886c54da293f5e7
-    projectPath: Library\Artifacts\1f\1f52ebc22789ba331886c54da293f5e7
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
   - path: SpaceJack\Library\Artifacts\20\209b50ef224afcd4814a66ef32103013
     fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\20\209b50ef224afcd4814a66ef32103013
     projectPath: Library\Artifacts\20\209b50ef224afcd4814a66ef32103013
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    projectPath: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\23\23ae36d42bfe6c01003fa03770a1c9b2
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\23\23ae36d42bfe6c01003fa03770a1c9b2
-    projectPath: Library\Artifacts\23\23ae36d42bfe6c01003fa03770a1c9b2
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\25\251f2dfde65ac562a06881b12372132c -> SpaceJack\Library\Artifacts\48\481b86cb41f7e909e18dac8d3613e3b5
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\25\251f2dfde65ac562a06881b12372132c
-      -> SpaceJack\Library\Artifacts\48\481b86cb41f7e909e18dac8d3613e3b5
-    projectPath: Library\Artifacts\25\251f2dfde65ac562a06881b12372132c -> SpaceJack\Library\Artifacts\48\481b86cb41f7e909e18dac8d3613e3b5
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\26\263053a9dc508bfa59ae1f8f5760e45c -> SpaceJack\Library\Artifacts\cf\cfa60ad1654b95393fdf48aef76e441e
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\26\263053a9dc508bfa59ae1f8f5760e45c
-      -> SpaceJack\Library\Artifacts\cf\cfa60ad1654b95393fdf48aef76e441e
-    projectPath: Library\Artifacts\26\263053a9dc508bfa59ae1f8f5760e45c -> SpaceJack\Library\Artifacts\cf\cfa60ad1654b95393fdf48aef76e441e
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\27\27c2c4b555ea612a0d7a2c0788e7b908
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\27\27c2c4b555ea612a0d7a2c0788e7b908
-    projectPath: Library\Artifacts\27\27c2c4b555ea612a0d7a2c0788e7b908
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\28\28872594a36adb2073726cfaccc65ac9
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\28\28872594a36adb2073726cfaccc65ac9
-    projectPath: Library\Artifacts\28\28872594a36adb2073726cfaccc65ac9
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\28\28f3c2c078e7cd761aeefeebf6c59685 -> SpaceJack\Library\Artifacts\8b\8b323d2deb41c4a0bac00a9b7ed67181
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\28\28f3c2c078e7cd761aeefeebf6c59685
-      -> SpaceJack\Library\Artifacts\8b\8b323d2deb41c4a0bac00a9b7ed67181
-    projectPath: Library\Artifacts\28\28f3c2c078e7cd761aeefeebf6c59685 -> SpaceJack\Library\Artifacts\8b\8b323d2deb41c4a0bac00a9b7ed67181
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\2a\2acc9d413bfc477226abe229027a9014
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\2a\2acc9d413bfc477226abe229027a9014
-    projectPath: Library\Artifacts\2a\2acc9d413bfc477226abe229027a9014
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\2d\2d167b2e678309700c279ff2a7dce44e -> SpaceJack\Library\Artifacts\30\303178c86040d0595fddce4194fdd9fe
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\2d\2d167b2e678309700c279ff2a7dce44e
-      -> SpaceJack\Library\Artifacts\30\303178c86040d0595fddce4194fdd9fe
-    projectPath: Library\Artifacts\2d\2d167b2e678309700c279ff2a7dce44e -> SpaceJack\Library\Artifacts\30\303178c86040d0595fddce4194fdd9fe
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\2e\2e1a69e4404af9120202bd64c2778530
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\2e\2e1a69e4404af9120202bd64c2778530
-    projectPath: Library\Artifacts\2e\2e1a69e4404af9120202bd64c2778530
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
-    projectPath: Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
-    originalPath: SpaceJack\Library\Artifacts\77\77495cbd11fab079a8dc9f2fd3e6e671
-    indexStatus: 6
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\2f\2fe2a40b45369790d756ba5e67215a4e -> SpaceJack\Library\Artifacts\28\28468e44fbd0c29c92ac2f6ffa021ad8
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\2f\2fe2a40b45369790d756ba5e67215a4e
-      -> SpaceJack\Library\Artifacts\28\28468e44fbd0c29c92ac2f6ffa021ad8
-    projectPath: Library\Artifacts\2f\2fe2a40b45369790d756ba5e67215a4e -> SpaceJack\Library\Artifacts\28\28468e44fbd0c29c92ac2f6ffa021ad8
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
   - path: SpaceJack\Library\Artifacts\30\307d567647623456675cdc110ed14925
     fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\30\307d567647623456675cdc110ed14925
     projectPath: Library\Artifacts\30\307d567647623456675cdc110ed14925
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\32\3235106437abe8029aa540774429b9ac -> SpaceJack\Library\Artifacts\d9\d95ca258c23845a87de8e2d17bd30d37
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\32\3235106437abe8029aa540774429b9ac
-      -> SpaceJack\Library\Artifacts\d9\d95ca258c23845a87de8e2d17bd30d37
-    projectPath: Library\Artifacts\32\3235106437abe8029aa540774429b9ac -> SpaceJack\Library\Artifacts\d9\d95ca258c23845a87de8e2d17bd30d37
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\32\329584d5718e8b5882997b088608da3c
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\32\329584d5718e8b5882997b088608da3c
-    projectPath: Library\Artifacts\32\329584d5718e8b5882997b088608da3c
+  - path: SpaceJack\Library\Artifacts\31\316a58b660c0f283acd4b84161a841bf
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\31\316a58b660c0f283acd4b84161a841bf
+    projectPath: Library\Artifacts\31\316a58b660c0f283acd4b84161a841bf
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SpaceJack\Library\Artifacts\31\31d7b15cc9eb94befc980660efdbe37f
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\31\31d7b15cc9eb94befc980660efdbe37f
+    projectPath: Library\Artifacts\31\31d7b15cc9eb94befc980660efdbe37f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SpaceJack\Library\Artifacts\32\32a901e58426ebe4c75287281f4fe770
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\32\32a901e58426ebe4c75287281f4fe770
+    projectPath: Library\Artifacts\32\32a901e58426ebe4c75287281f4fe770
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: SpaceJack\Library\Artifacts\35\352dd96afc4dbfb35d801658eaf270f5
     fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\35\352dd96afc4dbfb35d801658eaf270f5
     projectPath: Library\Artifacts\35\352dd96afc4dbfb35d801658eaf270f5
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\38\385a629c62d4e3ca86ac7393397ac6b6
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\38\385a629c62d4e3ca86ac7393397ac6b6
-    projectPath: Library\Artifacts\38\385a629c62d4e3ca86ac7393397ac6b6
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\38\385f3516b734167e39de305941b1c38a -> SpaceJack\Library\Artifacts\83\83fa908007dede65cef27fa3a14ba322
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\38\385f3516b734167e39de305941b1c38a
-      -> SpaceJack\Library\Artifacts\83\83fa908007dede65cef27fa3a14ba322
-    projectPath: Library\Artifacts\38\385f3516b734167e39de305941b1c38a -> SpaceJack\Library\Artifacts\83\83fa908007dede65cef27fa3a14ba322
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\39\39f65a647b7288fb2a2a659a2849e7e1
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\39\39f65a647b7288fb2a2a659a2849e7e1
-    projectPath: Library\Artifacts\39\39f65a647b7288fb2a2a659a2849e7e1
+  - path: SpaceJack\Library\Artifacts\37\3722952dfa171d2d49bcadda7aeca8bf
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\37\3722952dfa171d2d49bcadda7aeca8bf
+    projectPath: Library\Artifacts\37\3722952dfa171d2d49bcadda7aeca8bf
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\3b\3b51b4bdb328c5b09539d5b2b392888e
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\3b\3b51b4bdb328c5b09539d5b2b392888e
-    projectPath: Library\Artifacts\3b\3b51b4bdb328c5b09539d5b2b392888e
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\3c\3c563ee2ffe25cb546621decd23a5652
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\3c\3c563ee2ffe25cb546621decd23a5652
-    projectPath: Library\Artifacts\3c\3c563ee2ffe25cb546621decd23a5652
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\3c\3ce1e7e028b0c4d297fe6638865a395d -> SpaceJack\Library\Artifacts\7e\7e0b86473099346be71228b1dad4f03d
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\3c\3ce1e7e028b0c4d297fe6638865a395d
-      -> SpaceJack\Library\Artifacts\7e\7e0b86473099346be71228b1dad4f03d
-    projectPath: Library\Artifacts\3c\3ce1e7e028b0c4d297fe6638865a395d -> SpaceJack\Library\Artifacts\7e\7e0b86473099346be71228b1dad4f03d
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\40\4024aae8ba6a2285382d75be53310336
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\40\4024aae8ba6a2285382d75be53310336
-    projectPath: Library\Artifacts\40\4024aae8ba6a2285382d75be53310336
+  - path: SpaceJack\Library\Artifacts\37\37df6d083c146e94a8cae2eb3e44431d
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\37\37df6d083c146e94a8cae2eb3e44431d
+    projectPath: Library\Artifacts\37\37df6d083c146e94a8cae2eb3e44431d
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\43\43911c6ba0b4cc2b617c6d335bb89bd9
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\43\43911c6ba0b4cc2b617c6d335bb89bd9
-    projectPath: Library\Artifacts\43\43911c6ba0b4cc2b617c6d335bb89bd9
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\44\4491c6deeca451b0687483b1056aefc0 -> SpaceJack\Library\Artifacts\64\64b78051c9f674253262710f45693beb
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\44\4491c6deeca451b0687483b1056aefc0
-      -> SpaceJack\Library\Artifacts\64\64b78051c9f674253262710f45693beb
-    projectPath: Library\Artifacts\44\4491c6deeca451b0687483b1056aefc0 -> SpaceJack\Library\Artifacts\64\64b78051c9f674253262710f45693beb
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\46\46b35aeb15e30b642d1a550d9aadf6b0 -> SpaceJack\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\46\46b35aeb15e30b642d1a550d9aadf6b0
-      -> SpaceJack\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
-    projectPath: Library\Artifacts\46\46b35aeb15e30b642d1a550d9aadf6b0 -> SpaceJack\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+  - path: SpaceJack\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    projectPath: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
     originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\47\476761815a8720a0e716053ee8a3fa5c
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\47\476761815a8720a0e716053ee8a3fa5c
-    projectPath: Library\Artifacts\47\476761815a8720a0e716053ee8a3fa5c
+  - path: SpaceJack\Library\Artifacts\48\481b86cb41f7e909e18dac8d3613e3b5
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\48\481b86cb41f7e909e18dac8d3613e3b5
+    projectPath: Library\Artifacts\48\481b86cb41f7e909e18dac8d3613e3b5
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\4a\4a5ca408c09d8fd908cccc8c443bd926
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\4a\4a5ca408c09d8fd908cccc8c443bd926
-    projectPath: Library\Artifacts\4a\4a5ca408c09d8fd908cccc8c443bd926
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\4c\4c347900bc9b2b7f78b3f5d58d4313ff -> SpaceJack\Library\Artifacts\09\095c5d0eabd460bf83c11fc00665b992
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\4c\4c347900bc9b2b7f78b3f5d58d4313ff
-      -> SpaceJack\Library\Artifacts\09\095c5d0eabd460bf83c11fc00665b992
-    projectPath: Library\Artifacts\4c\4c347900bc9b2b7f78b3f5d58d4313ff -> SpaceJack\Library\Artifacts\09\095c5d0eabd460bf83c11fc00665b992
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\4c\4cb5a0ae6c8a5630cdeb524d0e42e9c7 -> SpaceJack\Library\Artifacts\6d\6d8f086ab166b267e8c5a5b0a0bfa838
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\4c\4cb5a0ae6c8a5630cdeb524d0e42e9c7
-      -> SpaceJack\Library\Artifacts\6d\6d8f086ab166b267e8c5a5b0a0bfa838
-    projectPath: Library\Artifacts\4c\4cb5a0ae6c8a5630cdeb524d0e42e9c7 -> SpaceJack\Library\Artifacts\6d\6d8f086ab166b267e8c5a5b0a0bfa838
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
   - path: SpaceJack\Library\Artifacts\4d\4d9bc52e31bfe01f088cc933475fdf9c
     fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\4d\4d9bc52e31bfe01f088cc933475fdf9c
     projectPath: Library\Artifacts\4d\4d9bc52e31bfe01f088cc933475fdf9c
     originalPath: 
-    indexStatus: 4
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\4e\4ed04312ba223be553908b61e7958112
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\4e\4ed04312ba223be553908b61e7958112
-    projectPath: Library\Artifacts\4e\4ed04312ba223be553908b61e7958112
+  - path: SpaceJack\Library\Artifacts\53\53d6e4446c270874c723e95686c23f66
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\53\53d6e4446c270874c723e95686c23f66
+    projectPath: Library\Artifacts\53\53d6e4446c270874c723e95686c23f66
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\4e\4ef922774d75066860909c6941bdf183 -> SpaceJack\Library\Artifacts\8d\8d369261332003645b7da31c01f8f601
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\4e\4ef922774d75066860909c6941bdf183
-      -> SpaceJack\Library\Artifacts\8d\8d369261332003645b7da31c01f8f601
-    projectPath: Library\Artifacts\4e\4ef922774d75066860909c6941bdf183 -> SpaceJack\Library\Artifacts\8d\8d369261332003645b7da31c01f8f601
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\4f\4f19dff0c0c2c105f4df02de844b9565
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\4f\4f19dff0c0c2c105f4df02de844b9565
-    projectPath: Library\Artifacts\4f\4f19dff0c0c2c105f4df02de844b9565
+  - path: SpaceJack\Library\Artifacts\55\5546115150b02f44d220698b2bc295c7
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\55\5546115150b02f44d220698b2bc295c7
+    projectPath: Library\Artifacts\55\5546115150b02f44d220698b2bc295c7
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\4f\4f4d8ec82849c8d29d210b1243482cb1
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\4f\4f4d8ec82849c8d29d210b1243482cb1
-    projectPath: Library\Artifacts\4f\4f4d8ec82849c8d29d210b1243482cb1
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\50\50ea3c31cf6ab14e7a1ac5f7393b35c8
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\50\50ea3c31cf6ab14e7a1ac5f7393b35c8
-    projectPath: Library\Artifacts\50\50ea3c31cf6ab14e7a1ac5f7393b35c8
-    originalPath: 
-    indexStatus: 5
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\53\53c477ab26520cc354878bb8a693e36a -> SpaceJack\Library\Artifacts\55\5546115150b02f44d220698b2bc295c7
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\53\53c477ab26520cc354878bb8a693e36a
-      -> SpaceJack\Library\Artifacts\55\5546115150b02f44d220698b2bc295c7
-    projectPath: Library\Artifacts\53\53c477ab26520cc354878bb8a693e36a -> SpaceJack\Library\Artifacts\55\5546115150b02f44d220698b2bc295c7
+  - path: SpaceJack\Library\Artifacts\5b\5b9baebdd79a274174eb6f110d32e71a
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\5b\5b9baebdd79a274174eb6f110d32e71a
+    projectPath: Library\Artifacts\5b\5b9baebdd79a274174eb6f110d32e71a
     originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\53\53efcc9f10e1329cd3ac292bb30191da
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\53\53efcc9f10e1329cd3ac292bb30191da
-    projectPath: Library\Artifacts\53\53efcc9f10e1329cd3ac292bb30191da
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\54\54fbefdcf1386c64e29992f58bf2bf89
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\54\54fbefdcf1386c64e29992f58bf2bf89
-    projectPath: Library\Artifacts\54\54fbefdcf1386c64e29992f58bf2bf89
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\55\55cacb9c7dbedfd28fccd67133bc7526
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\55\55cacb9c7dbedfd28fccd67133bc7526
-    projectPath: Library\Artifacts\55\55cacb9c7dbedfd28fccd67133bc7526
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\56\56c29843ea3f3160707272303c444c08 -> SpaceJack\Library\Artifacts\bd\bd7344fdea7e746e9cd3fdd8e0a969a5
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\56\56c29843ea3f3160707272303c444c08
-      -> SpaceJack\Library\Artifacts\bd\bd7344fdea7e746e9cd3fdd8e0a969a5
-    projectPath: Library\Artifacts\56\56c29843ea3f3160707272303c444c08 -> SpaceJack\Library\Artifacts\bd\bd7344fdea7e746e9cd3fdd8e0a969a5
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\57\57367592167c3bb65f1325606b8ecdbc -> SpaceJack\Library\Artifacts\91\914f83c87691136cb8e8aca1ce6e7c0a
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\57\57367592167c3bb65f1325606b8ecdbc
-      -> SpaceJack\Library\Artifacts\91\914f83c87691136cb8e8aca1ce6e7c0a
-    projectPath: Library\Artifacts\57\57367592167c3bb65f1325606b8ecdbc -> SpaceJack\Library\Artifacts\91\914f83c87691136cb8e8aca1ce6e7c0a
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\5b\5b31cbc567d34b801cca1094dfd86929 -> SpaceJack\Library\Artifacts\cd\cd3bb6f356f6d4c7ac2a4e4f3c153265
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\5b\5b31cbc567d34b801cca1094dfd86929
-      -> SpaceJack\Library\Artifacts\cd\cd3bb6f356f6d4c7ac2a4e4f3c153265
-    projectPath: Library\Artifacts\5b\5b31cbc567d34b801cca1094dfd86929 -> SpaceJack\Library\Artifacts\cd\cd3bb6f356f6d4c7ac2a4e4f3c153265
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\5b\5b5333fb6263841bd29e0c31848fb22a
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\5b\5b5333fb6263841bd29e0c31848fb22a
-    projectPath: Library\Artifacts\5b\5b5333fb6263841bd29e0c31848fb22a
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\5b\5b58dab5e66a4958164602d7500f9e17
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\5b\5b58dab5e66a4958164602d7500f9e17
-    projectPath: Library\Artifacts\5b\5b58dab5e66a4958164602d7500f9e17
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\5d\5d16acd2202e6cb6f128cea72b28e1fc
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\5d\5d16acd2202e6cb6f128cea72b28e1fc
-    projectPath: Library\Artifacts\5d\5d16acd2202e6cb6f128cea72b28e1fc
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\5d\5de0510689df78c191e023ef74b80bef -> SpaceJack\Library\Artifacts\32\32a901e58426ebe4c75287281f4fe770
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\5d\5de0510689df78c191e023ef74b80bef
-      -> SpaceJack\Library\Artifacts\32\32a901e58426ebe4c75287281f4fe770
-    projectPath: Library\Artifacts\5d\5de0510689df78c191e023ef74b80bef -> SpaceJack\Library\Artifacts\32\32a901e58426ebe4c75287281f4fe770
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
   - path: SpaceJack\Library\Artifacts\5f\5f81a1d93ed18d015bcc8548c1e68d9b
     fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\5f\5f81a1d93ed18d015bcc8548c1e68d9b
     projectPath: Library\Artifacts\5f\5f81a1d93ed18d015bcc8548c1e68d9b
-    originalPath: SpaceJack\Library\Artifacts\18\18856a993cec609bec4ffefd0925d5fd
-    indexStatus: 6
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\67\6757552102ab4aa45d3144b087b95644
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\67\6757552102ab4aa45d3144b087b95644
-    projectPath: Library\Artifacts\67\6757552102ab4aa45d3144b087b95644
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\67\676973763950619a706d20f5b321f302
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\67\676973763950619a706d20f5b321f302
-    projectPath: Library\Artifacts\67\676973763950619a706d20f5b321f302
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\67\67ae7c71e869d7ccd1feb7c3dcaa8fe2
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\67\67ae7c71e869d7ccd1feb7c3dcaa8fe2
-    projectPath: Library\Artifacts\67\67ae7c71e869d7ccd1feb7c3dcaa8fe2
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\6a\6ac8f2e1a002928d01abd5b9186ddcf8 -> SpaceJack\Library\Artifacts\a9\a992f342bf245f1c8671608a14ea873d
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\6a\6ac8f2e1a002928d01abd5b9186ddcf8
-      -> SpaceJack\Library\Artifacts\a9\a992f342bf245f1c8671608a14ea873d
-    projectPath: Library\Artifacts\6a\6ac8f2e1a002928d01abd5b9186ddcf8 -> SpaceJack\Library\Artifacts\a9\a992f342bf245f1c8671608a14ea873d
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\6a\6af517997e66fe6f061482053c18ac6b
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\6a\6af517997e66fe6f061482053c18ac6b
-    projectPath: Library\Artifacts\6a\6af517997e66fe6f061482053c18ac6b
+  - path: SpaceJack\Library\Artifacts\64\64b78051c9f674253262710f45693beb
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\64\64b78051c9f674253262710f45693beb
+    projectPath: Library\Artifacts\64\64b78051c9f674253262710f45693beb
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\6b\6b0b89715fa4211d03a190e4f96fe2fe -> SpaceJack\Library\Artifacts\1e\1ebaf94d6b8a45a9ccd6e4976c49fea8
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\6b\6b0b89715fa4211d03a190e4f96fe2fe
-      -> SpaceJack\Library\Artifacts\1e\1ebaf94d6b8a45a9ccd6e4976c49fea8
-    projectPath: Library\Artifacts\6b\6b0b89715fa4211d03a190e4f96fe2fe -> SpaceJack\Library\Artifacts\1e\1ebaf94d6b8a45a9ccd6e4976c49fea8
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\6b\6b620b6cb7c3540c16bccc096bbaa920 -> SpaceJack\Library\Artifacts\96\969d5daa11b223d486fed6f11cba8339
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\6b\6b620b6cb7c3540c16bccc096bbaa920
-      -> SpaceJack\Library\Artifacts\96\969d5daa11b223d486fed6f11cba8339
-    projectPath: Library\Artifacts\6b\6b620b6cb7c3540c16bccc096bbaa920 -> SpaceJack\Library\Artifacts\96\969d5daa11b223d486fed6f11cba8339
+  - path: SpaceJack\Library\Artifacts\67\67f6755524e2b4fe6edd2697f0fba4ea
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\67\67f6755524e2b4fe6edd2697f0fba4ea
+    projectPath: Library\Artifacts\67\67f6755524e2b4fe6edd2697f0fba4ea
     originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\6e\6e0951d7cc8a20e94e005d10f6213498
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\6e\6e0951d7cc8a20e94e005d10f6213498
-    projectPath: Library\Artifacts\6e\6e0951d7cc8a20e94e005d10f6213498
+  - path: SpaceJack\Library\Artifacts\6d\6d8f086ab166b267e8c5a5b0a0bfa838
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\6d\6d8f086ab166b267e8c5a5b0a0bfa838
+    projectPath: Library\Artifacts\6d\6d8f086ab166b267e8c5a5b0a0bfa838
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\6e\6e98805270b9c331d56ec0c4e1b53c85
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\6e\6e98805270b9c331d56ec0c4e1b53c85
-    projectPath: Library\Artifacts\6e\6e98805270b9c331d56ec0c4e1b53c85
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SpaceJack\Library\Artifacts\75\751ec99c4903f392e82d677ec5543db5
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\75\751ec99c4903f392e82d677ec5543db5
+    projectPath: Library\Artifacts\75\751ec99c4903f392e82d677ec5543db5
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\74\74fb5f1486e346b0cb9c8553e143bafb -> SpaceJack\Library\Artifacts\19\194dd898e9425356f9976ecab0ede58a
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\74\74fb5f1486e346b0cb9c8553e143bafb
-      -> SpaceJack\Library\Artifacts\19\194dd898e9425356f9976ecab0ede58a
-    projectPath: Library\Artifacts\74\74fb5f1486e346b0cb9c8553e143bafb -> SpaceJack\Library\Artifacts\19\194dd898e9425356f9976ecab0ede58a
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
   - path: SpaceJack\Library\Artifacts\75\752d446b3486ca136ef0aa53dc904d7f
     fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\75\752d446b3486ca136ef0aa53dc904d7f
     projectPath: Library\Artifacts\75\752d446b3486ca136ef0aa53dc904d7f
-    originalPath: SpaceJack\Library\Artifacts\23\2340c05fa02a352f4d52f36b5a9f7afc
-    indexStatus: 6
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\76\76c8b2d046efc19ab6896b7d93209a63
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\76\76c8b2d046efc19ab6896b7d93209a63
-    projectPath: Library\Artifacts\76\76c8b2d046efc19ab6896b7d93209a63
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\76\76d1707411dcdbc78149ed603e22981d -> SpaceJack\Library\Artifacts\53\53d6e4446c270874c723e95686c23f66
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\76\76d1707411dcdbc78149ed603e22981d
-      -> SpaceJack\Library\Artifacts\53\53d6e4446c270874c723e95686c23f66
-    projectPath: Library\Artifacts\76\76d1707411dcdbc78149ed603e22981d -> SpaceJack\Library\Artifacts\53\53d6e4446c270874c723e95686c23f66
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\77\772fe5717a32158bf16dc0f57c39f487
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\77\772fe5717a32158bf16dc0f57c39f487
-    projectPath: Library\Artifacts\77\772fe5717a32158bf16dc0f57c39f487
+  - path: SpaceJack\Library\Artifacts\78\78830ada661c9387972e407342367e50
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\78\78830ada661c9387972e407342367e50
+    projectPath: Library\Artifacts\78\78830ada661c9387972e407342367e50
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\77\77da2ef13617573334bbf5000363416d -> SpaceJack\Library\Artifacts\ce\ceddd758119a91d2f16ae817fef6f326
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\77\77da2ef13617573334bbf5000363416d
-      -> SpaceJack\Library\Artifacts\ce\ceddd758119a91d2f16ae817fef6f326
-    projectPath: Library\Artifacts\77\77da2ef13617573334bbf5000363416d -> SpaceJack\Library\Artifacts\ce\ceddd758119a91d2f16ae817fef6f326
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\7a\7a28b58ecbdfac40270f829f19c366a5
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\7a\7a28b58ecbdfac40270f829f19c366a5
-    projectPath: Library\Artifacts\7a\7a28b58ecbdfac40270f829f19c366a5
+  - path: SpaceJack\Library\Artifacts\7e\7e0b86473099346be71228b1dad4f03d
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\7e\7e0b86473099346be71228b1dad4f03d
+    projectPath: Library\Artifacts\7e\7e0b86473099346be71228b1dad4f03d
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\7a\7abeb7e98b03a62023a907b54082f601 -> SpaceJack\Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\7a\7abeb7e98b03a62023a907b54082f601
-      -> SpaceJack\Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
-    projectPath: Library\Artifacts\7a\7abeb7e98b03a62023a907b54082f601 -> SpaceJack\Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\7c\7cbb70ed5a959792fa54141288c7a05e -> SpaceJack\Library\Artifacts\9e\9e66b4994299e3c2a08e7e9874560dda
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\7c\7cbb70ed5a959792fa54141288c7a05e
-      -> SpaceJack\Library\Artifacts\9e\9e66b4994299e3c2a08e7e9874560dda
-    projectPath: Library\Artifacts\7c\7cbb70ed5a959792fa54141288c7a05e -> SpaceJack\Library\Artifacts\9e\9e66b4994299e3c2a08e7e9874560dda
+  - path: SpaceJack\Library\Artifacts\82\824211fdf6d8740feb243728420246d8
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\82\824211fdf6d8740feb243728420246d8
+    projectPath: Library\Artifacts\82\824211fdf6d8740feb243728420246d8
     originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\7d\7d78add4fb601375b5542b286ba4917d -> SpaceJack\Library\Artifacts\9f\9f67af740d314b73cba26db328a6483f
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\7d\7d78add4fb601375b5542b286ba4917d
-      -> SpaceJack\Library\Artifacts\9f\9f67af740d314b73cba26db328a6483f
-    projectPath: Library\Artifacts\7d\7d78add4fb601375b5542b286ba4917d -> SpaceJack\Library\Artifacts\9f\9f67af740d314b73cba26db328a6483f
+  - path: SpaceJack\Library\Artifacts\83\83fa908007dede65cef27fa3a14ba322
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\83\83fa908007dede65cef27fa3a14ba322
+    projectPath: Library\Artifacts\83\83fa908007dede65cef27fa3a14ba322
     originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\7d\7da60f905504fd108a9553a9d5b6af7a
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\7d\7da60f905504fd108a9553a9d5b6af7a
-    projectPath: Library\Artifacts\7d\7da60f905504fd108a9553a9d5b6af7a
+  - path: SpaceJack\Library\Artifacts\8a\8a05a442fc695aef7e35ea5be5c28c16
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\8a\8a05a442fc695aef7e35ea5be5c28c16
+    projectPath: Library\Artifacts\8a\8a05a442fc695aef7e35ea5be5c28c16
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\7d\7dac6552b8391cced88b44fc3211ca95 -> SpaceJack\Library\Artifacts\ba\ba0f9b6f21748f1cfb8f29989c26c931
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\7d\7dac6552b8391cced88b44fc3211ca95
-      -> SpaceJack\Library\Artifacts\ba\ba0f9b6f21748f1cfb8f29989c26c931
-    projectPath: Library\Artifacts\7d\7dac6552b8391cced88b44fc3211ca95 -> SpaceJack\Library\Artifacts\ba\ba0f9b6f21748f1cfb8f29989c26c931
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\82\82952ac492312cdac3e3a28ba9b62852
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\82\82952ac492312cdac3e3a28ba9b62852
-    projectPath: Library\Artifacts\82\82952ac492312cdac3e3a28ba9b62852
+  - path: SpaceJack\Library\Artifacts\8a\8ac1df6f07c910dd0e03738f6fc127d4
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\8a\8ac1df6f07c910dd0e03738f6fc127d4
+    projectPath: Library\Artifacts\8a\8ac1df6f07c910dd0e03738f6fc127d4
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\85\85949793595690d54f6004f95cd5d95b
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\85\85949793595690d54f6004f95cd5d95b
-    projectPath: Library\Artifacts\85\85949793595690d54f6004f95cd5d95b
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\86\86bcd35b18b43c24bfb46c91e7a3a2ca -> SpaceJack\Library\Artifacts\bf\bfe2f258aaa5512b79bed2dd793d7e84
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\86\86bcd35b18b43c24bfb46c91e7a3a2ca
-      -> SpaceJack\Library\Artifacts\bf\bfe2f258aaa5512b79bed2dd793d7e84
-    projectPath: Library\Artifacts\86\86bcd35b18b43c24bfb46c91e7a3a2ca -> SpaceJack\Library\Artifacts\bf\bfe2f258aaa5512b79bed2dd793d7e84
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\86\86d41704e6dbca5c8f3ee99a3428a253 -> SpaceJack\Library\Artifacts\31\316a58b660c0f283acd4b84161a841bf
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\86\86d41704e6dbca5c8f3ee99a3428a253
-      -> SpaceJack\Library\Artifacts\31\316a58b660c0f283acd4b84161a841bf
-    projectPath: Library\Artifacts\86\86d41704e6dbca5c8f3ee99a3428a253 -> SpaceJack\Library\Artifacts\31\316a58b660c0f283acd4b84161a841bf
+  - path: SpaceJack\Library\Artifacts\8b\8b323d2deb41c4a0bac00a9b7ed67181
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\8b\8b323d2deb41c4a0bac00a9b7ed67181
+    projectPath: Library\Artifacts\8b\8b323d2deb41c4a0bac00a9b7ed67181
     originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\87\870462c490e8f8ebd50893d0e04b1ecd -> SpaceJack\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\87\870462c490e8f8ebd50893d0e04b1ecd
-      -> SpaceJack\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
-    projectPath: Library\Artifacts\87\870462c490e8f8ebd50893d0e04b1ecd -> SpaceJack\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\87\870e486b51f202c7d15f53987a9f01e2
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\87\870e486b51f202c7d15f53987a9f01e2
-    projectPath: Library\Artifacts\87\870e486b51f202c7d15f53987a9f01e2
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\87\87eec8118af0c8f7b9a9b35b6a1a2b26
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\87\87eec8118af0c8f7b9a9b35b6a1a2b26
-    projectPath: Library\Artifacts\87\87eec8118af0c8f7b9a9b35b6a1a2b26
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\89\89248dd399ae907820ee7f15eb993ae3
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\89\89248dd399ae907820ee7f15eb993ae3
-    projectPath: Library\Artifacts\89\89248dd399ae907820ee7f15eb993ae3
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\89\8971ad7d2866ecc0ea1f6bca6e596716
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\89\8971ad7d2866ecc0ea1f6bca6e596716
-    projectPath: Library\Artifacts\89\8971ad7d2866ecc0ea1f6bca6e596716
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\8a\8a49fb51004fb78baf39625062553700
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\8a\8a49fb51004fb78baf39625062553700
-    projectPath: Library\Artifacts\8a\8a49fb51004fb78baf39625062553700
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
   - path: SpaceJack\Library\Artifacts\8b\8b72585759ef16d398dda7ed43e6b448
     fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\8b\8b72585759ef16d398dda7ed43e6b448
     projectPath: Library\Artifacts\8b\8b72585759ef16d398dda7ed43e6b448
-    originalPath: SpaceJack\Library\Artifacts\49\49d0b4d847b9c64a5eec9c4d252e31ed
-    indexStatus: 6
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\8d\8db34a3ed3938dcbfa12b8ea5b2ad089
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\8d\8db34a3ed3938dcbfa12b8ea5b2ad089
-    projectPath: Library\Artifacts\8d\8db34a3ed3938dcbfa12b8ea5b2ad089
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\8e\8e97e412d63895951cb8ed83489949b7 -> SpaceJack\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\8e\8e97e412d63895951cb8ed83489949b7
-      -> SpaceJack\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
-    projectPath: Library\Artifacts\8e\8e97e412d63895951cb8ed83489949b7 -> SpaceJack\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\8e\8ee126d43b9b29ad4bc009a1440e6f43
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\8e\8ee126d43b9b29ad4bc009a1440e6f43
-    projectPath: Library\Artifacts\8e\8ee126d43b9b29ad4bc009a1440e6f43
+  - path: SpaceJack\Library\Artifacts\8d\8d369261332003645b7da31c01f8f601
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\8d\8d369261332003645b7da31c01f8f601
+    projectPath: Library\Artifacts\8d\8d369261332003645b7da31c01f8f601
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\90\90065ed5e443355ad4407f67c87102df
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\90\90065ed5e443355ad4407f67c87102df
-    projectPath: Library\Artifacts\90\90065ed5e443355ad4407f67c87102df
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\91\910a0fa98a590d04318d7eb31e5ae9ad
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\91\910a0fa98a590d04318d7eb31e5ae9ad
-    projectPath: Library\Artifacts\91\910a0fa98a590d04318d7eb31e5ae9ad
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\94\9435173911e7ca3e5761099dcf9f1ce1 -> SpaceJack\Library\Artifacts\e4\e4dd74da7c1344d5b9a146fdffe3364b
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\94\9435173911e7ca3e5761099dcf9f1ce1
-      -> SpaceJack\Library\Artifacts\e4\e4dd74da7c1344d5b9a146fdffe3364b
-    projectPath: Library\Artifacts\94\9435173911e7ca3e5761099dcf9f1ce1 -> SpaceJack\Library\Artifacts\e4\e4dd74da7c1344d5b9a146fdffe3364b
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\94\948f262dca3b5707801d1c45062bdb45
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\94\948f262dca3b5707801d1c45062bdb45
-    projectPath: Library\Artifacts\94\948f262dca3b5707801d1c45062bdb45
+  - path: SpaceJack\Library\Artifacts\91\914f83c87691136cb8e8aca1ce6e7c0a
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\91\914f83c87691136cb8e8aca1ce6e7c0a
+    projectPath: Library\Artifacts\91\914f83c87691136cb8e8aca1ce6e7c0a
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\95\955e4f66643699c6f5753f914a9d7060 -> SpaceJack\Library\Artifacts\a7\a7106c4ba75a33eee52fd3fc8497dc8f
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\95\955e4f66643699c6f5753f914a9d7060
-      -> SpaceJack\Library\Artifacts\a7\a7106c4ba75a33eee52fd3fc8497dc8f
-    projectPath: Library\Artifacts\95\955e4f66643699c6f5753f914a9d7060 -> SpaceJack\Library\Artifacts\a7\a7106c4ba75a33eee52fd3fc8497dc8f
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\96\9648990e9170466ebd7ea6fd4bbdb5e3
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\96\9648990e9170466ebd7ea6fd4bbdb5e3
-    projectPath: Library\Artifacts\96\9648990e9170466ebd7ea6fd4bbdb5e3
+  - path: SpaceJack\Library\Artifacts\94\949b5ced53a558c8ae2ba233ebbb71fc
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\94\949b5ced53a558c8ae2ba233ebbb71fc
+    projectPath: Library\Artifacts\94\949b5ced53a558c8ae2ba233ebbb71fc
     originalPath: 
-    indexStatus: 5
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\96\96e0134d75052e62e44c80129a42b134 -> SpaceJack\Library\Artifacts\09\09958e9ab9a6ab4ac955aa831fbc184e
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\96\96e0134d75052e62e44c80129a42b134
-      -> SpaceJack\Library\Artifacts\09\09958e9ab9a6ab4ac955aa831fbc184e
-    projectPath: Library\Artifacts\96\96e0134d75052e62e44c80129a42b134 -> SpaceJack\Library\Artifacts\09\09958e9ab9a6ab4ac955aa831fbc184e
+  - path: SpaceJack\Library\Artifacts\96\969d5daa11b223d486fed6f11cba8339
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\96\969d5daa11b223d486fed6f11cba8339
+    projectPath: Library\Artifacts\96\969d5daa11b223d486fed6f11cba8339
     originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\9a\9a208ba79e46c2f51c89f3eb44097045 -> SpaceJack\Library\Artifacts\9b\9b4a5726b7e5fc028782ac9426a7f9bc
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\9a\9a208ba79e46c2f51c89f3eb44097045
-      -> SpaceJack\Library\Artifacts\9b\9b4a5726b7e5fc028782ac9426a7f9bc
-    projectPath: Library\Artifacts\9a\9a208ba79e46c2f51c89f3eb44097045 -> SpaceJack\Library\Artifacts\9b\9b4a5726b7e5fc028782ac9426a7f9bc
+  - path: SpaceJack\Library\Artifacts\9b\9b4a5726b7e5fc028782ac9426a7f9bc
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\9b\9b4a5726b7e5fc028782ac9426a7f9bc
+    projectPath: Library\Artifacts\9b\9b4a5726b7e5fc028782ac9426a7f9bc
     originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\9b\9b003935d69c26254746fd7909ead418
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\9b\9b003935d69c26254746fd7909ead418
-    projectPath: Library\Artifacts\9b\9b003935d69c26254746fd7909ead418
+  - path: SpaceJack\Library\Artifacts\9d\9dd17b915dca7293b75fcc9fe6031db5
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\9d\9dd17b915dca7293b75fcc9fe6031db5
+    projectPath: Library\Artifacts\9d\9dd17b915dca7293b75fcc9fe6031db5
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\9d\9d1b5509395f841aeebbccd7c314e587
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\9d\9d1b5509395f841aeebbccd7c314e587
-    projectPath: Library\Artifacts\9d\9d1b5509395f841aeebbccd7c314e587
-    originalPath: 
-    indexStatus: 5
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\9f\9f58c4075a75c7c19f50a1be5c0e6b92 -> SpaceJack\Library\Artifacts\21\210b7757b0dd6b5667bc19bf7ae6086c
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\9f\9f58c4075a75c7c19f50a1be5c0e6b92
-      -> SpaceJack\Library\Artifacts\21\210b7757b0dd6b5667bc19bf7ae6086c
-    projectPath: Library\Artifacts\9f\9f58c4075a75c7c19f50a1be5c0e6b92 -> SpaceJack\Library\Artifacts\21\210b7757b0dd6b5667bc19bf7ae6086c
+  - path: SpaceJack\Library\Artifacts\9e\9e66b4994299e3c2a08e7e9874560dda
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\9e\9e66b4994299e3c2a08e7e9874560dda
+    projectPath: Library\Artifacts\9e\9e66b4994299e3c2a08e7e9874560dda
     originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\a2\a293853468c683a9d9d4251c70e3c46a
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\a2\a293853468c683a9d9d4251c70e3c46a
-    projectPath: Library\Artifacts\a2\a293853468c683a9d9d4251c70e3c46a
-    originalPath: SpaceJack\Library\Artifacts\3f\3f2f7bc4122dd92424cd7c744f58768b
-    indexStatus: 6
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\a4\a46f4ed87ce3de6d9998abee4da12a59
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\a4\a46f4ed87ce3de6d9998abee4da12a59
-    projectPath: Library\Artifacts\a4\a46f4ed87ce3de6d9998abee4da12a59
+  - path: SpaceJack\Library\Artifacts\9f\9f67af740d314b73cba26db328a6483f
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\9f\9f67af740d314b73cba26db328a6483f
+    projectPath: Library\Artifacts\9f\9f67af740d314b73cba26db328a6483f
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\a7\a788c1f99e297ee883caad0c6ecc0e82
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\a7\a788c1f99e297ee883caad0c6ecc0e82
-    projectPath: Library\Artifacts\a7\a788c1f99e297ee883caad0c6ecc0e82
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\a8\a89e57b947f3abf78ee9b4bb86e5e756
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\a8\a89e57b947f3abf78ee9b4bb86e5e756
-    projectPath: Library\Artifacts\a8\a89e57b947f3abf78ee9b4bb86e5e756
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\ab\abdf4fe64868ed63251ac31f1e0dd8b9 -> SpaceJack\Library\Artifacts\9d\9dd17b915dca7293b75fcc9fe6031db5
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ab\abdf4fe64868ed63251ac31f1e0dd8b9
-      -> SpaceJack\Library\Artifacts\9d\9dd17b915dca7293b75fcc9fe6031db5
-    projectPath: Library\Artifacts\ab\abdf4fe64868ed63251ac31f1e0dd8b9 -> SpaceJack\Library\Artifacts\9d\9dd17b915dca7293b75fcc9fe6031db5
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\af\af73af99f7b52f8980a496c86c462103
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\af\af73af99f7b52f8980a496c86c462103
-    projectPath: Library\Artifacts\af\af73af99f7b52f8980a496c86c462103
+  - path: SpaceJack\Library\Artifacts\a7\a7106c4ba75a33eee52fd3fc8497dc8f
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\a7\a7106c4ba75a33eee52fd3fc8497dc8f
+    projectPath: Library\Artifacts\a7\a7106c4ba75a33eee52fd3fc8497dc8f
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SpaceJack\Library\Artifacts\a9\a90b88bd2b3694eaec8c6fe869084a3a
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\a9\a90b88bd2b3694eaec8c6fe869084a3a
+    projectPath: Library\Artifacts\a9\a90b88bd2b3694eaec8c6fe869084a3a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SpaceJack\Library\Artifacts\a9\a992f342bf245f1c8671608a14ea873d
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\a9\a992f342bf245f1c8671608a14ea873d
+    projectPath: Library\Artifacts\a9\a992f342bf245f1c8671608a14ea873d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SpaceJack\Library\Artifacts\ad\ad71ed0d90ca6ae87965a81f58a01424
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ad\ad71ed0d90ca6ae87965a81f58a01424
+    projectPath: Library\Artifacts\ad\ad71ed0d90ca6ae87965a81f58a01424
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: SpaceJack\Library\Artifacts\b0\b0e9932184d027928192f1868037fc05
     fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\b0\b0e9932184d027928192f1868037fc05
     projectPath: Library\Artifacts\b0\b0e9932184d027928192f1868037fc05
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\b5\b5bbed4572ef89535e9162e2738b5138
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\b5\b5bbed4572ef89535e9162e2738b5138
-    projectPath: Library\Artifacts\b5\b5bbed4572ef89535e9162e2738b5138
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\b9\b9cd50f8ba6a2e3192a1d6c501df61fc
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\b9\b9cd50f8ba6a2e3192a1d6c501df61fc
-    projectPath: Library\Artifacts\b9\b9cd50f8ba6a2e3192a1d6c501df61fc
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\b9\b9ec7b1210fa3e3943af35fc763372a8 -> SpaceJack\Library\Artifacts\82\824211fdf6d8740feb243728420246d8
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\b9\b9ec7b1210fa3e3943af35fc763372a8
-      -> SpaceJack\Library\Artifacts\82\824211fdf6d8740feb243728420246d8
-    projectPath: Library\Artifacts\b9\b9ec7b1210fa3e3943af35fc763372a8 -> SpaceJack\Library\Artifacts\82\824211fdf6d8740feb243728420246d8
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\bd\bd016d9e499076353505d1be651e4adb
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\bd\bd016d9e499076353505d1be651e4adb
-    projectPath: Library\Artifacts\bd\bd016d9e499076353505d1be651e4adb
+  - path: SpaceJack\Library\Artifacts\ba\ba0f9b6f21748f1cfb8f29989c26c931
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ba\ba0f9b6f21748f1cfb8f29989c26c931
+    projectPath: Library\Artifacts\ba\ba0f9b6f21748f1cfb8f29989c26c931
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\be\bed64eb886399aa2a2ce5472e4dfb0a9 -> SpaceJack\Library\Artifacts\94\949b5ced53a558c8ae2ba233ebbb71fc
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\be\bed64eb886399aa2a2ce5472e4dfb0a9
-      -> SpaceJack\Library\Artifacts\94\949b5ced53a558c8ae2ba233ebbb71fc
-    projectPath: Library\Artifacts\be\bed64eb886399aa2a2ce5472e4dfb0a9 -> SpaceJack\Library\Artifacts\94\949b5ced53a558c8ae2ba233ebbb71fc
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\be\bee09211a480e50af2aef452f4df6e1c
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\be\bee09211a480e50af2aef452f4df6e1c
-    projectPath: Library\Artifacts\be\bee09211a480e50af2aef452f4df6e1c
+  - path: SpaceJack\Library\Artifacts\bd\bd7344fdea7e746e9cd3fdd8e0a969a5
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\bd\bd7344fdea7e746e9cd3fdd8e0a969a5
+    projectPath: Library\Artifacts\bd\bd7344fdea7e746e9cd3fdd8e0a969a5
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\c4\c411cde78270d3b52478990e77e75f40 -> SpaceJack\Library\Artifacts\a9\a90b88bd2b3694eaec8c6fe869084a3a
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\c4\c411cde78270d3b52478990e77e75f40
-      -> SpaceJack\Library\Artifacts\a9\a90b88bd2b3694eaec8c6fe869084a3a
-    projectPath: Library\Artifacts\c4\c411cde78270d3b52478990e77e75f40 -> SpaceJack\Library\Artifacts\a9\a90b88bd2b3694eaec8c6fe869084a3a
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\c5\c50aec3494ec3c73ef3790a1b6500842
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\c5\c50aec3494ec3c73ef3790a1b6500842
-    projectPath: Library\Artifacts\c5\c50aec3494ec3c73ef3790a1b6500842
+  - path: SpaceJack\Library\Artifacts\bf\bfe2f258aaa5512b79bed2dd793d7e84
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\bf\bfe2f258aaa5512b79bed2dd793d7e84
+    projectPath: Library\Artifacts\bf\bfe2f258aaa5512b79bed2dd793d7e84
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\c5\c51d08ff79aecedf3ab7b5253562b4a9
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\c5\c51d08ff79aecedf3ab7b5253562b4a9
-    projectPath: Library\Artifacts\c5\c51d08ff79aecedf3ab7b5253562b4a9
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\c7\c7ce5dd5a373988361be95dd09b08a3d
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\c7\c7ce5dd5a373988361be95dd09b08a3d
-    projectPath: Library\Artifacts\c7\c7ce5dd5a373988361be95dd09b08a3d
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\c8\c895cd1b40c4abc1c7cdc633d9427abb -> SpaceJack\Library\Artifacts\37\37df6d083c146e94a8cae2eb3e44431d
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\c8\c895cd1b40c4abc1c7cdc633d9427abb
-      -> SpaceJack\Library\Artifacts\37\37df6d083c146e94a8cae2eb3e44431d
-    projectPath: Library\Artifacts\c8\c895cd1b40c4abc1c7cdc633d9427abb -> SpaceJack\Library\Artifacts\37\37df6d083c146e94a8cae2eb3e44431d
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\ca\ca1e9167ef2c400b0789814b1dbed831
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ca\ca1e9167ef2c400b0789814b1dbed831
-    projectPath: Library\Artifacts\ca\ca1e9167ef2c400b0789814b1dbed831
-    originalPath: SpaceJack\Library\Artifacts\88\88895aa5aae65513d54c0a5f9e467928
-    indexStatus: 6
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\ca\caba75b9a75b44f7ca68f52f7fbe2394
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ca\caba75b9a75b44f7ca68f52f7fbe2394
-    projectPath: Library\Artifacts\ca\caba75b9a75b44f7ca68f52f7fbe2394
+  - path: SpaceJack\Library\Artifacts\cd\cd3bb6f356f6d4c7ac2a4e4f3c153265
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\cd\cd3bb6f356f6d4c7ac2a4e4f3c153265
+    projectPath: Library\Artifacts\cd\cd3bb6f356f6d4c7ac2a4e4f3c153265
     originalPath: 
-    indexStatus: 5
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\cb\cb828bd3395ca35f4dd792b89eef7b2d
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\cb\cb828bd3395ca35f4dd792b89eef7b2d
-    projectPath: Library\Artifacts\cb\cb828bd3395ca35f4dd792b89eef7b2d
+  - path: SpaceJack\Library\Artifacts\ce\ceddd758119a91d2f16ae817fef6f326
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ce\ceddd758119a91d2f16ae817fef6f326
+    projectPath: Library\Artifacts\ce\ceddd758119a91d2f16ae817fef6f326
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\cb\cb85fe0d2d18ffd584441d90a5c380fe
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\cb\cb85fe0d2d18ffd584441d90a5c380fe
-    projectPath: Library\Artifacts\cb\cb85fe0d2d18ffd584441d90a5c380fe
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\cc\cc6cc62e1873fa2db723f0a05b3b66ed -> SpaceJack\Library\Artifacts\f2\f256d27a7f9279a8166b9984118adf33
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\cc\cc6cc62e1873fa2db723f0a05b3b66ed
-      -> SpaceJack\Library\Artifacts\f2\f256d27a7f9279a8166b9984118adf33
-    projectPath: Library\Artifacts\cc\cc6cc62e1873fa2db723f0a05b3b66ed -> SpaceJack\Library\Artifacts\f2\f256d27a7f9279a8166b9984118adf33
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\cc\cc77118a55fd9c84ee748a77ad8ff33a
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\cc\cc77118a55fd9c84ee748a77ad8ff33a
-    projectPath: Library\Artifacts\cc\cc77118a55fd9c84ee748a77ad8ff33a
+  - path: SpaceJack\Library\Artifacts\cf\cfa60ad1654b95393fdf48aef76e441e
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\cf\cfa60ad1654b95393fdf48aef76e441e
+    projectPath: Library\Artifacts\cf\cfa60ad1654b95393fdf48aef76e441e
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\ce\cedf1e2df57f9ec1ecde31551b95b34e
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ce\cedf1e2df57f9ec1ecde31551b95b34e
-    projectPath: Library\Artifacts\ce\cedf1e2df57f9ec1ecde31551b95b34e
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\d2\d288860d6c77b8b39f87ef89a285335d -> SpaceJack\Library\Artifacts\78\78830ada661c9387972e407342367e50
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\d2\d288860d6c77b8b39f87ef89a285335d
-      -> SpaceJack\Library\Artifacts\78\78830ada661c9387972e407342367e50
-    projectPath: Library\Artifacts\d2\d288860d6c77b8b39f87ef89a285335d -> SpaceJack\Library\Artifacts\78\78830ada661c9387972e407342367e50
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\d4\d415028ef399341d258702252ad70265
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\d4\d415028ef399341d258702252ad70265
-    projectPath: Library\Artifacts\d4\d415028ef399341d258702252ad70265
+  - path: SpaceJack\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    projectPath: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SpaceJack\Library\Artifacts\d9\d95ca258c23845a87de8e2d17bd30d37
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\d9\d95ca258c23845a87de8e2d17bd30d37
+    projectPath: Library\Artifacts\d9\d95ca258c23845a87de8e2d17bd30d37
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SpaceJack\Library\Artifacts\db\dbfd287e116558d4649c4d7b0291eff7
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\db\dbfd287e116558d4649c4d7b0291eff7
+    projectPath: Library\Artifacts\db\dbfd287e116558d4649c4d7b0291eff7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SpaceJack\Library\Artifacts\df\dfb2dc5fd59591e7dc532a4a216a78a2
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\df\dfb2dc5fd59591e7dc532a4a216a78a2
+    projectPath: Library\Artifacts\df\dfb2dc5fd59591e7dc532a4a216a78a2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: SpaceJack\Library\Artifacts\e0\e00ff303f33d2e4bd103ef31bb3f97b4
     fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\e0\e00ff303f33d2e4bd103ef31bb3f97b4
     projectPath: Library\Artifacts\e0\e00ff303f33d2e4bd103ef31bb3f97b4
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 4
-  - path: SpaceJack\Library\Artifacts\e0\e064b00b0009483a1f51a2526cf263c5 -> SpaceJack\Library\Artifacts\ec\ec1b8e88bd7b7b69e9cd9d61e81ad1d8
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\e0\e064b00b0009483a1f51a2526cf263c5
-      -> SpaceJack\Library\Artifacts\ec\ec1b8e88bd7b7b69e9cd9d61e81ad1d8
-    projectPath: Library\Artifacts\e0\e064b00b0009483a1f51a2526cf263c5 -> SpaceJack\Library\Artifacts\ec\ec1b8e88bd7b7b69e9cd9d61e81ad1d8
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
   - path: SpaceJack\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
     fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
     projectPath: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 9
-  - path: SpaceJack\Library\Artifacts\e4\e47b679cb887e27ba42e44c5bfb1efbf -> SpaceJack\Library\Artifacts\db\dbfd287e116558d4649c4d7b0291eff7
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\e4\e47b679cb887e27ba42e44c5bfb1efbf
-      -> SpaceJack\Library\Artifacts\db\dbfd287e116558d4649c4d7b0291eff7
-    projectPath: Library\Artifacts\e4\e47b679cb887e27ba42e44c5bfb1efbf -> SpaceJack\Library\Artifacts\db\dbfd287e116558d4649c4d7b0291eff7
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\e4\e4fa90440ccae41edc65b3afd21dc2c6
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\e4\e4fa90440ccae41edc65b3afd21dc2c6
-    projectPath: Library\Artifacts\e4\e4fa90440ccae41edc65b3afd21dc2c6
+  - path: SpaceJack\Library\Artifacts\e4\e4dd74da7c1344d5b9a146fdffe3364b
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\e4\e4dd74da7c1344d5b9a146fdffe3364b
+    projectPath: Library\Artifacts\e4\e4dd74da7c1344d5b9a146fdffe3364b
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\e7\e7525a250a18a25d99cc4003567beab1 -> SpaceJack\Library\Artifacts\ad\ad71ed0d90ca6ae87965a81f58a01424
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\e7\e7525a250a18a25d99cc4003567beab1
-      -> SpaceJack\Library\Artifacts\ad\ad71ed0d90ca6ae87965a81f58a01424
-    projectPath: Library\Artifacts\e7\e7525a250a18a25d99cc4003567beab1 -> SpaceJack\Library\Artifacts\ad\ad71ed0d90ca6ae87965a81f58a01424
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\e8\e81c0382ab5972b32dd9b6d76c6b6157 -> SpaceJack\Library\Artifacts\e7\e7c0901f4a928b106a525a5358f3bc89
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\e8\e81c0382ab5972b32dd9b6d76c6b6157
-      -> SpaceJack\Library\Artifacts\e7\e7c0901f4a928b106a525a5358f3bc89
-    projectPath: Library\Artifacts\e8\e81c0382ab5972b32dd9b6d76c6b6157 -> SpaceJack\Library\Artifacts\e7\e7c0901f4a928b106a525a5358f3bc89
+  - path: SpaceJack\Library\Artifacts\e6\e64234ab640d389cb8fc2e06390258ab
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\e6\e64234ab640d389cb8fc2e06390258ab
+    projectPath: Library\Artifacts\e6\e64234ab640d389cb8fc2e06390258ab
     originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\e9\e922b7e2ba702df45ddff357fb0454e4
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\e9\e922b7e2ba702df45ddff357fb0454e4
-    projectPath: Library\Artifacts\e9\e922b7e2ba702df45ddff357fb0454e4
+  - path: SpaceJack\Library\Artifacts\e7\e7c0901f4a928b106a525a5358f3bc89
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\e7\e7c0901f4a928b106a525a5358f3bc89
+    projectPath: Library\Artifacts\e7\e7c0901f4a928b106a525a5358f3bc89
     originalPath: 
-    indexStatus: 5
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\e9\e985f69b817736ee76f33f22e4b05d6a
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\e9\e985f69b817736ee76f33f22e4b05d6a
-    projectPath: Library\Artifacts\e9\e985f69b817736ee76f33f22e4b05d6a
+  - path: SpaceJack\Library\Artifacts\ec\ec1b8e88bd7b7b69e9cd9d61e81ad1d8
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ec\ec1b8e88bd7b7b69e9cd9d61e81ad1d8
+    projectPath: Library\Artifacts\ec\ec1b8e88bd7b7b69e9cd9d61e81ad1d8
     originalPath: 
-    indexStatus: 5
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\ec\ec3b1e8a8d580a8e7d5bb87aba05ea1a -> SpaceJack\Library\Artifacts\1b\1b469943bb3cb0b6c45b04f1def40646
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ec\ec3b1e8a8d580a8e7d5bb87aba05ea1a
-      -> SpaceJack\Library\Artifacts\1b\1b469943bb3cb0b6c45b04f1def40646
-    projectPath: Library\Artifacts\ec\ec3b1e8a8d580a8e7d5bb87aba05ea1a -> SpaceJack\Library\Artifacts\1b\1b469943bb3cb0b6c45b04f1def40646
+  - path: SpaceJack\Library\Artifacts\f2\f256d27a7f9279a8166b9984118adf33
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\f2\f256d27a7f9279a8166b9984118adf33
+    projectPath: Library\Artifacts\f2\f256d27a7f9279a8166b9984118adf33
     originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\ed\ed3ad1a9abde506b4f49cd193352ee15
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ed\ed3ad1a9abde506b4f49cd193352ee15
-    projectPath: Library\Artifacts\ed\ed3ad1a9abde506b4f49cd193352ee15
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\ee\ee2aacf73de8409c110bc0572cb81141 -> SpaceJack\Library\Artifacts\8a\8ac1df6f07c910dd0e03738f6fc127d4
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ee\ee2aacf73de8409c110bc0572cb81141
-      -> SpaceJack\Library\Artifacts\8a\8ac1df6f07c910dd0e03738f6fc127d4
-    projectPath: Library\Artifacts\ee\ee2aacf73de8409c110bc0572cb81141 -> SpaceJack\Library\Artifacts\8a\8ac1df6f07c910dd0e03738f6fc127d4
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\ee\ee6a45dae6e65d795809ce6ca61a1005
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ee\ee6a45dae6e65d795809ce6ca61a1005
-    projectPath: Library\Artifacts\ee\ee6a45dae6e65d795809ce6ca61a1005
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\ef\ef19b360b36fe4e00223ed59247b180e
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ef\ef19b360b36fe4e00223ed59247b180e
-    projectPath: Library\Artifacts\ef\ef19b360b36fe4e00223ed59247b180e
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\f1\f1ed79e9659ee40d03eafd43fc3edee7
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\f1\f1ed79e9659ee40d03eafd43fc3edee7
-    projectPath: Library\Artifacts\f1\f1ed79e9659ee40d03eafd43fc3edee7
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\f2\f26027f5802ee81b50b6afe5d8a72519 -> SpaceJack\Library\Artifacts\5b\5b9baebdd79a274174eb6f110d32e71a
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\f2\f26027f5802ee81b50b6afe5d8a72519
-      -> SpaceJack\Library\Artifacts\5b\5b9baebdd79a274174eb6f110d32e71a
-    projectPath: Library\Artifacts\f2\f26027f5802ee81b50b6afe5d8a72519 -> SpaceJack\Library\Artifacts\5b\5b9baebdd79a274174eb6f110d32e71a
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\f3\f3bfde8b07b87a31d9c06f2d63cc623f
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\f3\f3bfde8b07b87a31d9c06f2d63cc623f
-    projectPath: Library\Artifacts\f3\f3bfde8b07b87a31d9c06f2d63cc623f
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\f6\f6d00d81201ed991b2077adc02a15f4e -> SpaceJack\Library\Artifacts\75\751ec99c4903f392e82d677ec5543db5
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\f6\f6d00d81201ed991b2077adc02a15f4e
-      -> SpaceJack\Library\Artifacts\75\751ec99c4903f392e82d677ec5543db5
-    projectPath: Library\Artifacts\f6\f6d00d81201ed991b2077adc02a15f4e -> SpaceJack\Library\Artifacts\75\751ec99c4903f392e82d677ec5543db5
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: SpaceJack\Library\Artifacts\fc\fc3dde451ccb55201fbee2b14bcf6c6d
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\fc\fc3dde451ccb55201fbee2b14bcf6c6d
-    projectPath: Library\Artifacts\fc\fc3dde451ccb55201fbee2b14bcf6c6d
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\Artifacts\fd\fd232b9eddd9035d78629c3618806b7b
-    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\fd\fd232b9eddd9035d78629c3618806b7b
-    projectPath: Library\Artifacts\fd\fd232b9eddd9035d78629c3618806b7b
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
   - path: SpaceJack\Library\Artifacts\ff\ffc957c569d22bfe323136a07ffd638e
     fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ff\ffc957c569d22bfe323136a07ffd638e
     projectPath: Library\Artifacts\ff\ffc957c569d22bfe323136a07ffd638e
     originalPath: 
-    indexStatus: 4
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SpaceJack\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    fullPath: C:\Capston_team5\SpaceJack\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    projectPath: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    originalPath: 
+    indexStatus: 0
     workTreeStatus: 5
   - path: SpaceJack\Library\EditorInstance.json
     fullPath: C:\Capston_team5\SpaceJack\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 5
-  - path: SpaceJack\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Capston_team5\SpaceJack\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: SpaceJack\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Capston_team5\SpaceJack\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -1333,384 +412,132 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: SpaceJack\Library\PackageManager\ProjectCache
+    fullPath: C:\Capston_team5\SpaceJack\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: SpaceJack\Library\SceneVisibilityState.asset
     fullPath: C:\Capston_team5\SpaceJack\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: SpaceJack\Library\ScriptAssemblies\Analytics.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Analytics.dll
-    projectPath: Library\ScriptAssemblies\Analytics.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: SpaceJack\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: SpaceJack\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 5
   - path: SpaceJack\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
     fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 5
   - path: SpaceJack\Library\ScriptAssemblies\NavMeshComponents.dll
     fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\NavMeshComponents.dll
     projectPath: Library\ScriptAssemblies\NavMeshComponents.dll
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 5
   - path: SpaceJack\Library\ScriptAssemblies\NavMeshComponentsEditor.dll
     fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\NavMeshComponentsEditor.dll
     projectPath: Library\ScriptAssemblies\NavMeshComponentsEditor.dll
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceJack\Library\ScriptAssemblies\Purchasing.Common.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Purchasing.Common.dll
-    projectPath: Library\ScriptAssemblies\Purchasing.Common.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEditor.Purchasing.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEditor.Purchasing.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.Purchasing.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Advertisements.DevX.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Advertisements.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Advertisements.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Advertisements.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Monetization.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Monetization.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Monetization.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleCore.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleMacosStub.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.AppleStub.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTCore.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.WinRTStub.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    fullPath: C:\Capston_team5\SpaceJack\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ShaderCache\c\cd62c20eb179fd7a9954255baa13ebb2.bin
-    fullPath: C:\Capston_team5\SpaceJack\Library\ShaderCache\c\cd62c20eb179fd7a9954255baa13ebb2.bin
-    projectPath: Library\ShaderCache\c\cd62c20eb179fd7a9954255baa13ebb2.bin
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: SpaceJack\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Capston_team5\SpaceJack\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
   - path: SpaceJack\Library\SourceAssetDB
     fullPath: C:\Capston_team5\SpaceJack\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: SpaceJack\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: C:\Capston_team5\SpaceJack\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: SpaceJack\Library\Style.catalog
     fullPath: C:\Capston_team5\SpaceJack\Library\Style.catalog
     projectPath: Library\Style.catalog
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: SpaceJack\Logs\AssetImportWorker0.log
     fullPath: C:\Capston_team5\SpaceJack\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: SpaceJack\Logs\AssetImportWorker0-prev.log
     fullPath: C:\Capston_team5\SpaceJack\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: SpaceJack\Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Capston_team5\SpaceJack\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 5
+    indexStatus: 0
+    workTreeStatus: 3
   - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe1.log
     fullPath: C:\Capston_team5\SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     fullPath: C:\Capston_team5\SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     fullPath: C:\Capston_team5\SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     fullPath: C:\Capston_team5\SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     fullPath: C:\Capston_team5\SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     fullPath: C:\Capston_team5\SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe7.log
     fullPath: C:\Capston_team5\SpaceJack\Logs\shadercompiler-UnityShaderCompiler.exe7.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: SpaceJack\Temp\Assembly-CSharp.dll.hash
     fullPath: C:\Capston_team5\SpaceJack\Temp\Assembly-CSharp.dll.hash
     projectPath: Temp\Assembly-CSharp.dll.hash
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: SpaceJack\Temp\Assembly-CSharp-Editor.dll.hash
+    fullPath: C:\Capston_team5\SpaceJack\Temp\Assembly-CSharp-Editor.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: SpaceJack\Temp\CompilationLog.txt
     fullPath: C:\Capston_team5\SpaceJack\Temp\CompilationLog.txt
     projectPath: Temp\CompilationLog.txt
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceJack\Temp\UnityLockfile
-    fullPath: C:\Capston_team5\SpaceJack\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    workTreeStatus: 5
   - path: SpaceJack\Temp\UnityLockfile
     fullPath: C:\Capston_team5\SpaceJack\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
@@ -1721,35 +548,23 @@ MonoBehaviour:
     fullPath: C:\Capston_team5\SpaceJack\Temp\UnityTempFile-24e8e3cb0f451184aaf286f3563ae1a7
     projectPath: Temp\UnityTempFile-24e8e3cb0f451184aaf286f3563ae1a7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceJack\Temp\UnityTempFile-31d0d444815e3654484af6199a9b0623
-    fullPath: C:\Capston_team5\SpaceJack\Temp\UnityTempFile-31d0d444815e3654484af6199a9b0623
-    projectPath: Temp\UnityTempFile-31d0d444815e3654484af6199a9b0623
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: SpaceJack\Temp\UnityTempFile-62ddb376f7995b64cb4df3205cb26671
     fullPath: C:\Capston_team5\SpaceJack\Temp\UnityTempFile-62ddb376f7995b64cb4df3205cb26671
     projectPath: Temp\UnityTempFile-62ddb376f7995b64cb4df3205cb26671
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceJack\Temp\UnityTempFile-9cd42a6c3fe3df54ea448a4fe8874563
-    fullPath: C:\Capston_team5\SpaceJack\Temp\UnityTempFile-9cd42a6c3fe3df54ea448a4fe8874563
-    projectPath: Temp\UnityTempFile-9cd42a6c3fe3df54ea448a4fe8874563
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: SpaceJack\Temp\workerlic
     fullPath: C:\Capston_team5\SpaceJack\Temp\workerlic
     projectPath: Temp\workerlic
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: SpaceJack\Temp\workerlic
-    fullPath: C:\Capston_team5\SpaceJack\Temp\workerlic
-    projectPath: Temp\workerlic
-    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: SpaceJack\UserSettings\EditorUserSettings.asset
+    fullPath: C:\Capston_team5\SpaceJack\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
