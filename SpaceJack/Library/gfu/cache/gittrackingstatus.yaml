@@ -13,17 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-  lastUpdatedAtString: 2022-11-12T16:50:37.579+09:00
-  initializedAtString: 2022-11-12T16:50:37.579+09:00
-=======
-  lastUpdatedAtString: 2022-11-24T21:39:52.068+09:00
-  initializedAtString: 2022-11-24T21:39:52.068+09:00
->>>>>>> Stashed changes
-=======
   lastUpdatedAtString: 2022-11-26T13:39:20.302+09:00
   initializedAtString: 2022-11-26T12:22:53.992+09:00
->>>>>>> parent of 01da326c (Revert "Merge pull request #5 from sangjune97/sight")
   ahead: 0
   behind: 0

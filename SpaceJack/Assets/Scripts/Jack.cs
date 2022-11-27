@@ -3,10 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-<<<<<<< HEAD
-=======
 
->>>>>>> parent of 01da326c (Revert "Merge pull request #5 from sangjune97/sight")
 public class Jack : MonoBehaviour
 { 
     public GameObject bullet;
