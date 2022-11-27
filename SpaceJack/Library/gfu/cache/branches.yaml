@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
+<<<<<<< HEAD
   lastUpdatedAtString: 2022-11-24T20:41:52.249+09:00
   initializedAtString: 2022-11-24T20:41:52.240+09:00
+=======
+  lastUpdatedAtString: 2022-11-26T13:39:18.475+09:00
+  initializedAtString: 2022-11-26T13:23:51.740+09:00
+>>>>>>> parent of 01da326c (Revert "Merge pull request #5 from sangjune97/sight")
   localBranches:
   - name: main
     tracking: origin/main
@@ -23,7 +28,7 @@ MonoBehaviour:
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/weedlysine/Capston_team5.git
+    url: https://github.com/sangjune97/Capston_team5
     login: 
     user: 
     host: 
@@ -36,7 +41,7 @@ MonoBehaviour:
     - name: main
       remote:
         name: origin
-        url: https://github.com/weedlysine/Capston_team5.git
+        url: https://github.com/sangjune97/Capston_team5
       trackingBranch: main
   remoteConfigBranches:
     keys:
@@ -49,11 +54,15 @@ MonoBehaviour:
       - name: HEAD
         remote:
           name: origin
+<<<<<<< HEAD
           url: https://github.com/weedlysine/Capston_team5.git
+=======
+          url: https://github.com/sangjune97/Capston_team5
+>>>>>>> parent of 01da326c (Revert "Merge pull request #5 from sangjune97/sight")
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/weedlysine/Capston_team5.git
+      url: https://github.com/sangjune97/Capston_team5

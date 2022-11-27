@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   lastUpdatedAtString: 2022-11-12T16:50:32.514+09:00
   initializedAtString: 2022-11-12T16:50:32.514+09:00
@@ -20,9 +21,13 @@ MonoBehaviour:
   lastUpdatedAtString: 2022-11-24T21:39:48.974+09:00
   initializedAtString: 2022-11-24T21:39:48.974+09:00
 >>>>>>> Stashed changes
+=======
+  lastUpdatedAtString: 2022-11-26T13:23:51.761+09:00
+  initializedAtString: 2022-11-26T12:22:46.074+09:00
+>>>>>>> parent of 01da326c (Revert "Merge pull request #5 from sangjune97/sight")
   currentGitRemote:
     name: origin
-    url: https://github.com/weedlysine/Capston_team5.git
+    url: https://github.com/sangjune97/Capston_team5
     login: 
     user: 
     host: 
@@ -35,9 +40,9 @@ MonoBehaviour:
     name: main
     remote:
       name: origin
-      url: https://github.com/weedlysine/Capston_team5.git
+      url: https://github.com/sangjune97/Capston_team5
     trackingBranch: main
   currentConfigRemote:
     name: origin
-    url: https://github.com/weedlysine/Capston_team5.git
+    url: https://github.com/sangjune97/Capston_team5
   currentHead: 
