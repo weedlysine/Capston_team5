@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -514704792, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 4
+  lastUpdatedAtString: 2022-11-26T21:01:31.179+09:00
+  initializedAtString: 2022-11-26T21:01:31.179+09:00
+  fileLog:
+    path: SpaceJack/Assets/Scenes/SampleScene.unity
+    logEntries:
+    - commitID: 8cee1efd1fedd7867a5ff3288a32bc84e8e5aa58
+      mergeA: 
+      mergeB: 
+      authorName: chan821
+      authorEmail: jc970422@gmail.com
+      commitEmail: jc970422@gmail.com
+      commitName: chan821
+      summary: Loading, Save, Load, Exit
+      description: "save, load, exit\uC640 shop \uBC84\uD2BC, \uADF8\uB9AC\uACE0
+        loading scene \uB9CC\uB4E4\uC5C8\uC2B5\uB2C8\uB2E4,"
+      timeString: 2022-11-24T21:42:36.000+09:00
+      commitTimeString: 2022-11-24T21:42:36.000+09:00
+      changes:
+      - path: SpaceJack\Assets\Scenes\SampleScene.unity
+        fullPath: C:\Capston_team5\SpaceJack\Assets\Scenes\SampleScene.unity
+        projectPath: Assets\Scenes\SampleScene.unity
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: 86841f0a4473c2d8d708a557dca0834fb094aaa5
+      mergeA: 
+      mergeB: 
+      authorName: chan821
+      authorEmail: jc970422@gmail.com
+      commitEmail: jc970422@gmail.com
+      commitName: chan821
+      summary: followingandfaster
+      description: 
+      timeString: 2022-11-12T16:55:57.000+09:00
+      commitTimeString: 2022-11-12T16:55:57.000+09:00
+      changes:
+      - path: SpaceJack\Assets\Scenes\SampleScene.unity
+        fullPath: C:\Capston_team5\SpaceJack\Assets\Scenes\SampleScene.unity
+        projectPath: Assets\Scenes\SampleScene.unity
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: 0350eb3e831a946c0a46da522c8e2a8a6c59bfa2
+      mergeA: 
+      mergeB: 
+      authorName: weedlysine
+      authorEmail: 69707352+weedlysine@users.noreply.github.com
+      commitEmail: 69707352+weedlysine@users.noreply.github.com
+      commitName: weedlysine
+      summary: sdh_11/10
+      description: 
+      timeString: 2022-11-10T20:50:52.000+09:00
+      commitTimeString: 2022-11-10T20:50:52.000+09:00
+      changes:
+      - path: SpaceJack\Assets\Scenes\SampleScene.unity
+        fullPath: C:\Capston_team5\SpaceJack\Assets\Scenes\SampleScene.unity
+        projectPath: Assets\Scenes\SampleScene.unity
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0

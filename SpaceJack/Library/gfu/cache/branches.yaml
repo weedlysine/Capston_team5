@@ -13,13 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-11-24T20:41:52.249+09:00
-  initializedAtString: 2022-11-24T20:41:52.240+09:00
+  lastUpdatedAtString: 2022-11-26T21:44:49.510+09:00
+  initializedAtString: 2022-11-26T21:44:48.449+09:00
   localBranches:
+  - name: chan
+    tracking: origin/chan
   - name: main
     tracking: origin/main
   remoteBranches:
+  - name: origin/chan
+    tracking: '[None]'
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
@@ -31,8 +37,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - chan
     - main
     values:
+    - name: chan
+      remote:
+        name: origin
+        url: https://github.com/weedlysine/Capston_team5.git
+      trackingBranch: chan
     - name: main
       remote:
         name: origin
@@ -43,10 +55,22 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - chan
       - HEAD
+      - main
     subKeyValues:
     - Values:
+      - name: chan
+        remote:
+          name: origin
+          url: https://github.com/weedlysine/Capston_team5.git
+        trackingBranch: 
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/weedlysine/Capston_team5.git
+        trackingBranch: 
+      - name: main
         remote:
           name: origin
           url: https://github.com/weedlysine/Capston_team5.git

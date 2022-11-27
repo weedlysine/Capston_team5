@@ -13,13 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-<<<<<<< Updated upstream
-  lastUpdatedAtString: 2022-11-12T16:50:32.514+09:00
-  initializedAtString: 2022-11-12T16:50:32.514+09:00
-=======
-  lastUpdatedAtString: 2022-11-24T21:39:48.974+09:00
-  initializedAtString: 2022-11-24T21:39:48.974+09:00
->>>>>>> Stashed changes
+  lastUpdatedAtString: 2022-11-27T15:41:52.897+09:00
+  initializedAtString: 2022-11-27T15:41:52.897+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/weedlysine/Capston_team5.git
@@ -29,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: chan
+    tracking: origin/chan
   currentConfigBranch:
-    name: main
+    name: chan
     remote:
       name: origin
       url: https://github.com/weedlysine/Capston_team5.git
-    trackingBranch: main
+    trackingBranch: chan
   currentConfigRemote:
     name: origin
     url: https://github.com/weedlysine/Capston_team5.git

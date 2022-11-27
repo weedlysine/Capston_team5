@@ -1,5 +1,4 @@
 using UnityEngine;
-using BehaviorDesigner.Runtime;
 
 namespace BehaviorDesigner.Runtime.Tasks.Movement
 {
@@ -15,8 +14,6 @@ namespace BehaviorDesigner.Runtime.Tasks.Movement
         public SharedFloat waypointPauseDuration = 0;
         [Tooltip("The waypoints to move to")]
         public SharedGameObjectList waypoints;
-
-        public BehaviorTree bt;
 
         // The current index that we are heading towards within the waypoints array
         private int waypointIndex;
