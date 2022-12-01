@@ -13,17 +13,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-11-26T13:39:18.475+09:00
-  initializedAtString: 2022-11-26T13:23:51.740+09:00
+  lastUpdatedAtString: 2022-11-30T16:46:23.623+09:00
+  initializedAtString: 2022-11-30T16:46:19.549+09:00
   localBranches:
   - name: main
     tracking: origin/main
   remoteBranches:
+  - name: origin/chan
+    tracking: '[None]'
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
+    tracking: '[None]'
+  - name: origin/sdh_2
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/sangjune97/Capston_team5
+    url: https://github.com/weedlysine/Capston_team5.git
     login: 
     user: 
     host: 
@@ -36,24 +42,42 @@ MonoBehaviour:
     - name: main
       remote:
         name: origin
-        url: https://github.com/sangjune97/Capston_team5
+        url: https://github.com/weedlysine/Capston_team5.git
       trackingBranch: main
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - chan
       - HEAD
+      - main
+      - sdh_2
     subKeyValues:
     - Values:
+      - name: chan
+        remote:
+          name: origin
+          url: https://github.com/weedlysine/Capston_team5.git
+        trackingBranch: 
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/sangjune97/Capston_team5
+          url: https://github.com/weedlysine/Capston_team5.git
+        trackingBranch: 
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/weedlysine/Capston_team5.git
+        trackingBranch: 
+      - name: sdh_2
+        remote:
+          name: origin
+          url: https://github.com/weedlysine/Capston_team5.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/sangjune97/Capston_team5
+      url: https://github.com/weedlysine/Capston_team5.git
