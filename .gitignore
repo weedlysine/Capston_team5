@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-**/[Ll]ibrary/
-**/[Tt]emp/
-**/[Oo]bj/
-**/[Bb]uild/
-**/[Bb]uilds/
-**/[Ll]ogs/
-**/[Mm]emoryCaptures/
+[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+[Ll]ogs/
+/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -59,3 +59,30 @@ sysinfo.txt
 crashlytics-build.properties
 
 SpaceJack/Library/ArtifactDB
+SpaceJack/Logs/shadercompiler-UnityShaderCompiler.exe3.log
+SpaceJack/Logs/shadercompiler-UnityShaderCompiler.exe2.log
+SpaceJack/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+SpaceJack/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+SpaceJack/Logs/shadercompiler-AssetImportWorker0.log
+SpaceJack/Logs/AssetImportWorker0.log
+SpaceJack/ProjectSettings/URPProjectSettings.asset
+SpaceJack/Packages/packages-lock.json
+SpaceJack/Packages/manifest.json
+SpaceJack/Logs/shadercompiler-UnityShaderCompiler.exe3.log
+SpaceJack/Logs/shadercompiler-UnityShaderCompiler.exe2.log
+SpaceJack/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+SpaceJack/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+SpaceJack/Logs/shadercompiler-AssetImportWorker0.log
+SpaceJack/Logs/AssetImportWorker0.log
+SpaceJack/Library/SourceAssetDB
+SpaceJack/Library/ShaderCache/EditorEncounteredVariants
+SpaceJack/Library/ShaderCache.db
+SpaceJack/Library/ScriptMapper
+SpaceJack/Library/ScriptAssemblies/Assembly-CSharp.dll
+SpaceJack/Library/SceneVisibilityState.asset
+SpaceJack/Library/PackageManager/ProjectCache.md5
+SpaceJack/Library/PackageManager/ProjectCache
+SpaceJack/Library/LastSceneManagerSetup.txt
+SpaceJack/Library/CurrentLayout-default.dwlt
+SpaceJack/Library/ArtifactDB
+SpaceJack/Library/APIUpdater/project-dependencies.graph
