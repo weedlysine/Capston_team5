@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-11-30T16:46:19.334+09:00
-  initializedAtString: 2022-11-30T16:46:19.334+09:00
+  lastUpdatedAtString: 2022-12-01T18:39:58.816+09:00
+  initializedAtString: 2022-12-01T18:39:58.816+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/weedlysine/Capston_team5.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: shd_3
+    tracking: origin/shd_3
   currentConfigBranch:
-    name: main
+    name: shd_3
     remote:
       name: origin
       url: https://github.com/weedlysine/Capston_team5.git
-    trackingBranch: main
+    trackingBranch: shd_3
   currentConfigRemote:
     name: origin
     url: https://github.com/weedlysine/Capston_team5.git

@@ -34,7 +34,7 @@ public class shop_change : MonoBehaviour
 
     public void GameStart()
     {
-        SceneManager.LoadScene("Title");
+        SceneManager.LoadScene("map_testing");
     }
     public void Ship_change()
     {
