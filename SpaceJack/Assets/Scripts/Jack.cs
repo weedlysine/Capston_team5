@@ -54,9 +54,9 @@ public class Jack : MonoBehaviour
     void Update()
     {
         Move();
-        Globals.player_pos = gameObject.transform.position;
+        //Globals.player_pos = gameObject.transform.position;
         Shot();
-        if (bullet_NULL ==true)
+        /*if (bullet_NULL ==true)
             reload();
         if(Input.GetKeyUp(KeyCode.Z))
         {
@@ -141,7 +141,7 @@ public class Jack : MonoBehaviour
                 restriction_time = 0;
                 rope_restriction = false;
             }  
-        }
+        }*/
     }
 
     void OnTriggerEnter2D(Collider2D collider)  // card
@@ -172,10 +172,10 @@ public class Jack : MonoBehaviour
             dy++;
         }
         gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(dx,dy,0).normalized * speed;
-        if (dx != 0 || dy != 0)
+        /*if (dx != 0 || dy != 0)
             GameObject.Find("하체 대기").GetComponent<Animator>().SetBool("ismoving", true);
         else if (dx == 0&& dy==0)
-            GameObject.Find("하체 대기").GetComponent<Animator>().SetBool("ismoving", false);
+            GameObject.Find("하체 대기").GetComponent<Animator>().SetBool("ismoving", false);*/
     }
 
     void Shot(){

@@ -6,30 +6,16 @@ using UnityEngine.UI;
 
 public class shop_change : MonoBehaviour
 {
-    public GameObject SH;
     public GameObject Ship_image;
-    public Sprite[] ship = new Sprite[7];
+    public Sprite[] ship = new Sprite[11];
+    int shipNum;
     // Start is called before the first frame update
     void Start()
     {
-        int i = Random.Range(0, 7);
-        Ship_image.GetComponent<Image>().sprite = ship[i];
-        SH.SetActive(false);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-    public void item_shop()
-    {
-        SH.SetActive(false);
-    }
-
-    public void stage_shop()
-    {
-        SH.SetActive(true);
+        ship = Resources.LoadAll<Sprite>("map");
+        int i = Random.Range(0, 11);
+        shipNum = i;
+        Ship_image.GetComponent<Image>().sprite = ship[shipNum];
     }
 
     public void GameStart()
@@ -38,7 +24,16 @@ public class shop_change : MonoBehaviour
     }
     public void Ship_change()
     {
-        int i = Random.Range(0, 7);
-        Ship_image.GetComponent<Image>().sprite = ship[i];
+        while(true)
+        {
+            int i = Random.Range(0, 11);
+            if (i != shipNum)
+            {
+                shipNum = i;
+                Debug.Log(shipNum);
+                Ship_image.GetComponent<Image>().sprite = ship[shipNum];
+                break;
+            }
+        }
     }
 }
