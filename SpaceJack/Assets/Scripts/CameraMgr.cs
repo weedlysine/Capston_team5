@@ -11,8 +11,8 @@ public class CameraMgr : MonoBehaviour
 
     private InputManager inputManager = null;
 
-    float min = 3f;
-    float max = 5f;
+    float min = 2f;
+    float max = 3.5f;
     float initialMin;
     float initialMax;
 
