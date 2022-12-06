@@ -2990,7 +2990,6 @@ GameObject:
   - component: {fileID: 2126140217}
   - component: {fileID: 2126140216}
   - component: {fileID: 2126140215}
-  - component: {fileID: 2126140214}
   - component: {fileID: 2126140213}
   m_Layer: 0
   m_Name: Player
@@ -3006,34 +3005,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2126140212}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f21f27bb984ee154bb2aded27ed1c09b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  viewRadius: 50
-  viewAngle: 120
-  targetMask:
-    serializedVersion: 2
-    m_Bits: 512
-  obstacleMask:
-    serializedVersion: 2
-    m_Bits: 256
-  visibleTargets: []
-  meshResolution: 1
-  edgeResolveIterations: 4
-  edgeDstThreshold: 0.5
-  viewMeshFilter: {fileID: 1936103761}
---- !u!114 &2126140214
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2126140212}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dd7dcccac16994044a4ab3f52bd720f8, type: 3}
+  m_Script: {fileID: 11500000, guid: 648c52e80d5c3b245ad1dd18f32f207f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 6

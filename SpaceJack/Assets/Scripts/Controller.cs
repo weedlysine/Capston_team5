@@ -5,7 +5,7 @@ public class Controller : MonoBehaviour {
 
 	public float moveSpeed = 6;
 
-	Rigidbody myRigidbody;
+	//Rigidbody myRigidbody;
 	Camera viewCamera;
 	Vector3 velocity;
 
