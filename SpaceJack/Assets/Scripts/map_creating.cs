@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.Tilemaps;
+using Random = System.Random;
 
 public class map_creating : MonoBehaviour
 {
@@ -15,6 +16,7 @@ public class map_creating : MonoBehaviour
     public GameObject ground;
     public NavMeshSurface[] surfaces; 
 
+    public GameObject[] way = new GameObject [4];
 
     private void Awake()
     {
@@ -27,6 +29,7 @@ public class map_creating : MonoBehaviour
         ground.transform.position = new Vector3(data[0].Count / 2f - 1, 0, -(data.Count / 2f) + 0.5f);
         ground.transform.localScale = new Vector3((data[0].Count / 10f) - 0.1f, 0, data.Count / 10f);
         GameObject a = null;
+        int k = 0;
         for (int i =0; i<data.Count;i++)
         {
             for(int j =1;j<data[0].Count;j++)
@@ -35,6 +38,12 @@ public class map_creating : MonoBehaviour
                 {
                     case 0://¹Ù´Ú Å¸ÀÏ ±ò±â
                         tilemap_ground.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[0]);
+                        int waypoint = UnityEngine.Random.Range(0, 5);
+                        if (waypoint % 5 == 0 && k<=3)
+                        {
+                            Instantiate(way[k], new Vector3(j , 2, -i-1), Quaternion.Euler(new Vector3(90, 0, 0)));
+                            k++;
+                        }
                         break;
                     case 1://À§ÂÊ Áß¾Óº®
                         a = Instantiate(cube, new Vector3(j - 1, 1.5f, -i), Quaternion.identity);

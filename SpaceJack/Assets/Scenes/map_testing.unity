@@ -1269,6 +1269,11 @@ MonoBehaviour:
   ground: {fileID: 181481927}
   surfaces:
   - {fileID: 496130493}
+  way:
+  - {fileID: 3812027627471637760, guid: 4a455dbd3fe59fb4f8370790f2ec292d, type: 3}
+  - {fileID: 8422922500108729259, guid: ecdd5e161c23ee84888d74e203606e11, type: 3}
+  - {fileID: 8385834936634498876, guid: 148cc448be0ea7144b1114d97eda07bb, type: 3}
+  - {fileID: 5724505571819732332, guid: 5d9d850341dcd114181a9f3943047561, type: 3}
 --- !u!4 &496130495
 Transform:
   m_ObjectHideFlags: 0
