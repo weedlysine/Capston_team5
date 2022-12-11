@@ -44,6 +44,14 @@ public class FieldOfView : MonoBehaviour
 	void LateUpdate()
 	{
 		DrawFieldOfView();
+        if(Input.GetAxisRaw("Horizontal") != 0 || Input.GetAxisRaw("Vertical") != 0 )
+        {
+            viewAngle = Mathf.Lerp(viewAngle, 60,5 * Time.deltaTime);
+        }
+        else if(viewAngle != 110)
+        {
+            viewAngle = Mathf.Lerp(viewAngle, 110, 5 * Time.deltaTime);
+        }
 	}
 
 	void FindVisibleTargets()

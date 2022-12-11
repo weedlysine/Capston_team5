@@ -44,12 +44,12 @@ public class CameraMgr : MonoBehaviour
         {
             if ((inputDir.Item1 != 0) || (inputDir.Item2 != 0))
             {
-                cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, min, 0.45f * Time.deltaTime);
+                cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, min, 1.5f * Time.deltaTime);
             }
             else if ((inputDir.Item1 == 0) && (inputDir.Item2 == 0))
             {
 
-                cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, max, 0.25f * Time.deltaTime);
+                cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, max, 0.5f * Time.deltaTime);
             }
         }
     }
