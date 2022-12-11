@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.Tilemaps;
+//using Random = System.Random;
 
 public class map_creating : MonoBehaviour
 {
@@ -13,20 +14,39 @@ public class map_creating : MonoBehaviour
     public Tilemap tilemap,tilemap_ground;
     public TileBase[] tilebase = new TileBase[33];
     public GameObject ground;
-    public NavMeshSurface[] surfaces; 
+    public NavMeshSurface[] surfaces;
+    public GameObject Player;
 
+    public GameObject[] way = new GameObject [4];
+    public GameObject[] enemy = new GameObject[3];
+
+    private List<Vector3> ground_pos;
+
+    public GameObject drone;
+
+    int enemyNum;
 
     private void Awake()
     {
-        data = CSVReader.Read("testmap");
+        data = CSVReader.Read(GameManager.Instance.map_name);
+        Player = GameObject.Find("Player");
+        ground_pos = new List<Vector3>();
     }
     // Start is called before the first frame update
     void Start()
     {
+        if (GameManager.Instance.map_name == "map2")
+        {
+            Player.transform.position = new Vector3(38, 2, -3);
+            Camera.main.transform.position = new Vector3(Player.transform.position.x,10, Player.transform.position.z);
+        }
+            
         //¹Ù´Ú Å©±â ¼³Á¤
         ground.transform.position = new Vector3(data[0].Count / 2f - 1, 0, -(data.Count / 2f) + 0.5f);
         ground.transform.localScale = new Vector3((data[0].Count / 10f) - 0.1f, 0, data.Count / 10f);
         GameObject a = null;
+        int k = 0;
+        int h = 0;
         for (int i =0; i<data.Count;i++)
         {
             for(int j =1;j<data[0].Count;j++)
@@ -35,6 +55,13 @@ public class map_creating : MonoBehaviour
                 {
                     case 0://¹Ù´Ú Å¸ÀÏ ±ò±â
                         tilemap_ground.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[0]);
+                        int waypoint = UnityEngine.Random.Range(0, 101);
+                        if (waypoint % 50 == 0 && k<4)
+                        {
+                            way[k].transform.position = new Vector3(j-1, 2, -i);
+                            k++;
+                        }
+                        ground_pos.Add(new Vector3(j - 1, 1.5f, -i));
                         break;
                     case 1://À§ÂÊ Áß¾Óº®
                         a = Instantiate(cube, new Vector3(j - 1, 1.5f, -i), Quaternion.identity);
@@ -155,21 +182,63 @@ public class map_creating : MonoBehaviour
                     case 50://Áß¾Ó ±âµÕ
                         a = Instantiate(cube, new Vector3(j - 1, 1.5f, -i), Quaternion.identity);
                         a.transform.parent = GameObject.Find("walls").transform;
-                        tilemap.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[32]);
+                        tilemap.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[37]);
                         tilemap_ground.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[0]);
                         //a.GetComponent<MeshRenderer>().enabled = false;
                         break;
-                    case 60://¼¼·Î¹®
+                    case 60://À§ÁÂ¹®
                         a = Instantiate(cube, new Vector3(j - 1, 1.5f, -i), Quaternion.identity);
                         a.transform.parent = GameObject.Find("walls").transform;
                         tilemap.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[29]);
                         tilemap_ground.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[0]);
                         //a.GetComponent<MeshRenderer>().enabled = false;
                         break;
-                    case 61://°¡·Î¹®
+                    case 61://À§¿ì¹®
                         a = Instantiate(cube, new Vector3(j - 1, 1.5f, -i), Quaternion.identity);
                         a.transform.parent = GameObject.Find("walls").transform;
                         tilemap.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[30]);
+                        tilemap_ground.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[0]);
+                        //a.GetComponent<MeshRenderer>().enabled = false;
+                        break;
+                    case 62://ÇÏÁÂ¹®
+                        a = Instantiate(cube, new Vector3(j - 1, 1.5f, -i), Quaternion.identity);
+                        a.transform.parent = GameObject.Find("walls").transform;
+                        tilemap.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[31]);
+                        tilemap_ground.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[0]);
+                        //a.GetComponent<MeshRenderer>().enabled = false;
+                        break;
+                    case 63://ÇÏ¿ì¹®
+                        a = Instantiate(cube, new Vector3(j - 1, 1.5f, -i), Quaternion.identity);
+                        a.transform.parent = GameObject.Find("walls").transform;
+                        tilemap.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[32]);
+                        tilemap_ground.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[0]);
+                        //a.GetComponent<MeshRenderer>().enabled = false;
+                        break;
+                    case 64://ÁÂ»ó¹®
+                        a = Instantiate(cube, new Vector3(j - 1, 1.5f, -i), Quaternion.identity);
+                        a.transform.parent = GameObject.Find("walls").transform;
+                        tilemap.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[33]);
+                        tilemap_ground.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[0]);
+                        //a.GetComponent<MeshRenderer>().enabled = false;
+                        break;
+                    case 65://ÁÂÇÏ¹®
+                        a = Instantiate(cube, new Vector3(j - 1, 1.5f, -i), Quaternion.identity);
+                        a.transform.parent = GameObject.Find("walls").transform;
+                        tilemap.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[34]);
+                        tilemap_ground.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[0]);
+                        //a.GetComponent<MeshRenderer>().enabled = false;
+                        break;
+                    case 66://¿ì»ó¹®
+                        a = Instantiate(cube, new Vector3(j - 1, 1.5f, -i), Quaternion.identity);
+                        a.transform.parent = GameObject.Find("walls").transform;
+                        tilemap.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[35]);
+                        tilemap_ground.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[0]);
+                        //a.GetComponent<MeshRenderer>().enabled = false;
+                        break;
+                    case 67://¿ìÇÏ¹®
+                        a = Instantiate(cube, new Vector3(j - 1, 1.5f, -i), Quaternion.identity);
+                        a.transform.parent = GameObject.Find("walls").transform;
+                        tilemap.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[36]);
                         tilemap_ground.SetTile(new Vector3Int(j - 1, -i - 1, 0), tilebase[0]);
                         //a.GetComponent<MeshRenderer>().enabled = false;
                         break;
@@ -187,13 +256,25 @@ public class map_creating : MonoBehaviour
                 }
             }
         }
-
+        Instantiate(drone, new Vector3(3f, 2, -1f), Quaternion.Euler(90,0,0));
         for (int i = 0; i < surfaces.Length; i++)
+        {
+            surfaces[i].RemoveData();
             surfaces[i].BuildNavMesh();
+        }
+        if (GameManager.Instance.map_name == "testmap")
+            enemyNum = 6;
+        else if (GameManager.Instance.map_name == "map2")
+            enemyNum = 10;
+        for (int i =0;i< UnityEngine.Random.Range(enemyNum-6, 6); i++)
+        {
+            Instantiate(drone, ground_pos[UnityEngine.Random.Range(0, ground_pos.Count)], Quaternion.Euler(90, 0, 0));
+        }
         foreach (Transform child in GameObject.Find("walls").transform)
         {
             child.GetComponent<MeshRenderer>().enabled = false;
         }
+        
     }
 
 }

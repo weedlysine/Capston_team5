@@ -1,0 +1,2 @@
+C:\Users\yjuu1\OneDrive\문서\GitHub\Capston_team5\SpaceJack\obj\Debug\NavMeshComponentsEditor.csprojAssemblyReference.cache
+C:\Users\yjuu1\OneDrive\문서\GitHub\Capston_team5\SpaceJack\obj\Debug\NavMeshComponentsEditor.csproj.CoreCompileInputs.cache

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using BehaviorDesigner.Runtime;
+using UnityEngine.SceneManagement;
 
 static class Constants
 {
@@ -46,6 +47,15 @@ public class GameManager : MonoBehaviour
     public Vector2Int bottomLeft, topRight;
     public List<Node> FinalNodeList;
     public bool allowDiagonal, dontCrossCorner;
+    public static GameManager Instance;
+
+    bool alert;
+    float time = 60;
+    public string map_name;
+
+    private Vector3[] player_pos = new Vector3[2];
+    public float get_time() { return time; }
+    public void set_time(float a) { time = a; }
 
     int sizeX, sizeY;
     Node[,] NodeArray;
@@ -55,6 +65,26 @@ public class GameManager : MonoBehaviour
     void Awake()
     {
         DontDestroyOnLoad(this);
+        Instance = this;
+        map_name = "testmap";
+    }
+
+    private void Update()
+    {
+        if(alert == false && Input.GetKey(KeyCode.Z))//스테이지 이동
+        {
+            map_name = "map2";
+            SceneManager.LoadScene("map_testing");
+        }
+        if (alert == false && Input.GetKey(KeyCode.X))//스테이지 이동2
+        {
+
+        }
+        if(alert ==true)
+        {
+            time -= Time.deltaTime;
+
+        }
     }
 
     ///public void PathFinding()//

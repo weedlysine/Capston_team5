@@ -9,6 +9,10 @@ public class All_button_Script : MonoBehaviour
     {
         SceneManager.LoadScene("shop");
     }
+    public void startscene_load()
+    {
+        SceneManager.LoadScene("map_testing");
+    }
     public void startscene_option()
     {
         GameObject.Find("Canvas").transform.GetChild(4).gameObject.SetActive(true);
